@@ -110,8 +110,8 @@ Besides research, I have also excelled in programming and academic competitions,
     <p class="pub-title">LLMTM: Benchmarking and Optimizing LLMs for Temporal Motif Analysis in Dynamic Graphs</p>
     <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
     <p class="pub-venue"><strong>AAAI 2026 Oral</strong> · First Author</p>
-    <p class="pub-desc lang-en block">A benchmark and tool-enhanced agent framework for temporal motif reasoning in dynamic graphs, achieving near-perfect accuracy on complex motif analysis while reducing reasoning cost through structure-aware scheduling.</p>
-    <p class="pub-desc lang-zh block">构建动态图时序模体推理 Benchmark，并提出工具增强型 Agent 与结构感知调度器，在复杂模体分析上实现近 100% 准确率并降低推理成本。</p>
+    <div class="pub-desc lang-en block"> <ol class="pub-points"> <li>We construct the first <strong>benchmark</strong> for temporal motif reasoning in dynamic graphs, systematically evaluating 9 LLMs across 9 classical temporal motifs and 6 tasks on spatio-temporal graph reasoning.</li> <li>We propose a tool-augmented Agent framework that integrates <strong>Motif Memory</strong>, <strong>Verifier Trace</strong>, and <strong>Reflexion</strong>, achieving nearly 100% accuracy on complex motif analysis.</li> <li>We design a structure-aware allocator and construct SFT data for optimization, adaptively routing standard LLMs and tool-augmented Agents to maintain over 90% accuracy while reducing inference cost by approximately 40%.</li> </ol> </div>
+    <div class="pub-desc lang-zh block"> <ol class="pub-points"> <li>构建首个动态图时序模体推理 <strong>Benchmark</strong>，系统评估 9 种 LLM 在 9 类经典时序模体、6 项任务上的时空图推理能力。</li> <li>提出融合 <strong>Motif Memory</strong>、<strong>Verifier Trace</strong> 与 <strong>Reflexion</strong> 的工具增强型 Agent，实现复杂模体分析近 100% 准确率。</li> <li>设计结构感知分配器，构造 SFT 数据进行优化，自适应路由标准 LLM 与工具增强型 Agent，在保持 90%+ 准确率的同时降低约 40% 的推理成本。</li> </ol> </div>
     <p class="pub-links"><a href="#">Paper</a> <a href="#">Code</a></p>
   </div>
 </div>
