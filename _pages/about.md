@@ -105,7 +105,7 @@ Besides research, I have also excelled in programming and academic competitions,
 ## <span class="emoji">📝</span>Publications
 
 <div class="pub-item">
-  <img class="pub-thumb" src="/images/pub_llmtm.png" alt="LLMTM thumbnail">
+  <img class="pub-thumb" src="/images/llmtm.png" alt="LLMTM thumbnail">
   <div>
     <p class="pub-title">LLMTM: Benchmarking and Optimizing LLMs for Temporal Motif Analysis in Dynamic Graphs</p>
     <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
