@@ -24,7 +24,7 @@ Besides research, I have also excelled in programming and academic competitions,
 
 
 <div class="contact-row">
-  <a href="mailto:haobing@tju.edu.cn">Email</a> /
+  <a href="haobing@tju.edu.cn">Email</a> /
   <a href="https://github.com/haobing-tju" target="_blank">Github</a> /
   <a href="/files/Bing_Hao_CV.pdf" target="_blank">CV</a>
 </div>
