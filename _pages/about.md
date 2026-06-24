@@ -1,0 +1,205 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+<span id="about-me"></span>
+
+<div class="hero-text block lang-en">
+Hi! I am <strong>Bing Hao</strong>, a Master's student in <strong>Computer Technology</strong> at <strong>Tianjin University</strong>. My research lies at the intersection of <strong>graph mining</strong>, <strong>large language models</strong>, and <strong>agent systems</strong>. I am especially interested in enabling LLMs and multi-agent systems to reason over dynamic, structured, and large-scale graph data.
+<br><br>
+I received my B.E. degree in Computer Science and Technology from <strong>Hebei Normal University</strong>, where I ranked <strong>1/364</strong>. I am now working on dynamic graph reasoning, temporal motif analysis, graph-of-thought reasoning, and efficient/interpretable LLM reasoning.
+</div>
+
+<div class="hero-text block lang-zh">
+你好！我是<strong>郝冰</strong>，现为<strong>天津大学计算机技术专业硕士研究生</strong>。我的研究方向集中在<strong>图数据挖掘</strong>、<strong>大语言模型</strong>与<strong>智能体系统</strong>的交叉领域，尤其关注如何让 LLM 和多智能体系统在动态、结构化、大规模图数据上进行可靠推理。
+<br><br>
+本科毕业于<strong>河北师范大学计算机科学与技术专业</strong>，综合排名 <strong>1/364</strong>。目前主要开展动态图推理、时序模体分析、Graph-of-Thought 推理以及高效可解释的大模型推理研究。
+</div>
+
+<div class="contact-row">
+  <a href="mailto:haobing@tju.edu.cn">Email</a> /
+  <a href="https://github.com/haobing-tju" target="_blank">Github</a> /
+  <a href="/files/Bing_Hao_CV.pdf" target="_blank">CV</a>
+</div>
+
+## <span class="emoji">🔥</span>News
+
+<ul class="news-list lang-en block">
+  <li><em>2026.02</em>: Our work <strong>LLMTM</strong> has been accepted as an <strong>AAAI 2026 Oral</strong>.</li>
+  <li><em>2026</em>: Our work <strong>SPOT</strong> has been accepted to <strong>KDD 2026</strong>.</li>
+  <li><em>2026</em>: Our work <strong>RouteGoT</strong> has been accepted to <strong>KDD 2026</strong>.</li>
+  <li><em>2025</em>: Won the <strong>Best Team Award</strong> in an IJCAI 2025 international competition.</li>
+</ul>
+<ul class="news-list lang-zh block">
+  <li><em>2026.02</em>：论文 <strong>LLMTM</strong> 被 <strong>AAAI 2026 Oral</strong> 录用。</li>
+  <li><em>2026</em>：论文 <strong>SPOT</strong> 被 <strong>KDD 2026</strong> 录用。</li>
+  <li><em>2026</em>：论文 <strong>RouteGoT</strong> 被 <strong>KDD 2026</strong> 录用。</li>
+  <li><em>2025</em>：获得 IJCAI 2025 国际竞赛最佳团队奖。</li>
+</ul>
+
+<span id="research-interests"></span>
+
+## <span class="emoji">🔬</span>Research Interests
+
+<div class="interests lang-en grid">
+  <div class="interest-card"><strong>LLM Reasoning on Dynamic Graphs</strong>Temporal motif analysis, reachability, connected components, and large-scale dynamic graph reasoning.</div>
+  <div class="interest-card"><strong>Multi-Agent Systems for Graphs</strong>Adaptive graph partitioning, spatio-temporal collaboration, scheduling, and budget-aware reasoning.</div>
+  <div class="interest-card"><strong>Graph-of-Thought Reasoning</strong>Node-adaptive routing, strong/weak model collaboration, and cost-efficient structured reasoning.</div>
+  <div class="interest-card"><strong>Efficient and Interpretable LLM Reasoning</strong>Latent reasoning, CoT compression, SFT/RFT, GRPO, and post-training alignment.</div>
+</div>
+
+<div class="interests lang-zh grid">
+  <div class="interest-card"><strong>动态图上的大模型推理</strong>时序模体分析、可达性、连通分量与大规模动态图结构推理。</div>
+  <div class="interest-card"><strong>面向图推理的多智能体系统</strong>自适应图划分、时空协同、调度机制与预算感知推理。</div>
+  <div class="interest-card"><strong>Graph-of-Thought 结构化推理</strong>节点自适应路由、强弱模型协同与成本高效的复杂图推理。</div>
+  <div class="interest-card"><strong>高效可解释的大模型推理</strong>隐式推理、CoT 压缩、SFT/RFT、GRPO 与后训练对齐。</div>
+</div>
+
+<span id="publications"></span>
+
+## <span class="emoji">📝</span>Publications
+
+<p class="section-note lang-en block">* denotes equal contribution. Publication links can be updated when arXiv/code pages are public.</p>
+<p class="section-note lang-zh block">* 表示共同一作。论文链接和代码链接可在公开后继续更新。</p>
+
+<div class="pub-item">
+  <img class="pub-thumb" src="/images/pub_llmtm.png" alt="LLMTM thumbnail">
+  <div>
+    <p class="pub-title">LLMTM: Benchmarking and Optimizing LLMs for Temporal Motif Analysis in Dynamic Graphs</p>
+    <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
+    <p class="pub-venue"><strong>AAAI 2026 Oral</strong> · First Author</p>
+    <p class="pub-desc lang-en block">A benchmark and tool-enhanced agent framework for temporal motif reasoning in dynamic graphs, achieving near-perfect accuracy on complex motif analysis while reducing reasoning cost through structure-aware scheduling.</p>
+    <p class="pub-desc lang-zh block">构建动态图时序模体推理 Benchmark，并提出工具增强型 Agent 与结构感知调度器，在复杂模体分析上实现近 100% 准确率并降低推理成本。</p>
+    <p class="pub-links"><a href="#">Paper</a> <a href="#">Code</a></p>
+  </div>
+</div>
+
+<div class="pub-item">
+  <img class="pub-thumb" src="/images/pub_adastorm.png" alt="AdaSTORM thumbnail">
+  <div>
+    <p class="pub-title">AdaSTORM: Scaling LLM Reasoning on Dynamic Graphs via Adaptive Spatio-Temporal Multi-Agent Collaboration</p>
+    <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
+    <p class="pub-venue">Manuscript / Under Review · First Author</p>
+    <p class="pub-desc lang-en block">A dynamic graph multi-agent reasoning framework that leverages graph partitionability and spatio-temporal decomposition to scale LLM graph reasoning from small graphs to much larger settings.</p>
+    <p class="pub-desc lang-zh block">利用动态图的可划分性与时空解耦性，构建动态图多智能体推理框架，通过区域并行和跨区域协同突破单智能体规模瓶颈。</p>
+    <p class="pub-links"><a href="#">Paper</a> <a href="#">Code</a></p>
+  </div>
+</div>
+
+<div class="pub-item">
+  <img class="pub-thumb" src="/images/pub_spot.png" alt="SPOT thumbnail">
+  <div>
+    <p class="pub-title">SPOT: Span-level Pause-of-Thought for Efficient and Interpretable Latent Reasoning in Large Language Models</p>
+    <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
+    <p class="pub-venue"><strong>KDD 2026</strong> · Second Author</p>
+    <p class="pub-desc lang-en block">A hybrid explicit-implicit reasoning paradigm that compresses span-level CoT into latent tokens with semantic alignment and frozen-head decoding constraints.</p>
+    <p class="pub-desc lang-zh block">提出显隐式混合推理范式，将 Span 级显式 CoT 压缩为隐式 Token，并结合语义对齐和冻结 Head 解码约束提升可解释性。</p>
+    <p class="pub-links"><a href="#">Paper</a> <a href="#">Code</a></p>
+  </div>
+</div>
+
+<div class="pub-item">
+  <img class="pub-thumb" src="/images/pub_routegot.png" alt="RouteGoT thumbnail">
+  <div>
+    <p class="pub-title">RouteGoT: Node-Adaptive Routing for Cost-Efficient Graph of Thoughts Reasoning</p>
+    <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
+    <p class="pub-venue"><strong>KDD 2026</strong> · Second Author</p>
+    <p class="pub-desc lang-en block">A node-adaptive routing framework for Graph-of-Thoughts reasoning, enabling dynamic strong/weak model collaboration and budget-aware global scheduling.</p>
+    <p class="pub-desc lang-zh block">提出节点级自适应路由框架，在 GoT 推理图内部动态分配模型与推理策略，实现强弱模型协同和成本—准确率平衡。</p>
+    <p class="pub-links"><a href="#">Paper</a> <a href="#">Code</a></p>
+  </div>
+</div>
+
+<span id="professional-services"></span>
+
+## <span class="emoji">🤝</span>Professional Services
+
+<div class="lang-en block">
+<ul>
+  <li><strong>Conference presentation:</strong> Oral presentation for LLMTM at The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26).</li>
+  <li><strong>Research projects:</strong> Participant in NSFC-funded projects on high-efficiency LLM reasoning for large-scale complex networks and autonomous agents for social media influence modeling.</li>
+  <li><strong>Academic collaboration:</strong> Experience in international competition collaboration and research engineering for graph reasoning and LLM agents.</li>
+</ul>
+</div>
+<div class="lang-zh block">
+<ul>
+  <li><strong>学术报告：</strong>在 The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) 完成 LLMTM 论文口头报告。</li>
+  <li><strong>科研项目：</strong>参与面向大规模复杂网络的大语言模型高信效推理、社交媒体影响力塑造的自主成长智能体与协同博弈等国家自然科学基金项目。</li>
+  <li><strong>学术协作：</strong>具备国际竞赛协作、图推理与 LLM Agent 科研工程经验。</li>
+</ul>
+</div>
+
+<span id="experience"></span>
+
+## <span class="emoji">🎓</span>Experience
+
+<div class="timeline lang-en block">
+  <div class="timeline-item">
+    <div class="timeline-time">2024.09 - Present</div>
+    <div><strong>M.S. in Computer Technology</strong>, Tianjin University</div>
+    <div class="tags"><span class="tag">Graph Mining</span><span class="tag">LLM</span><span class="tag">Agent</span></div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-time">2020.09 - 2024.06</div>
+    <div><strong>B.E. in Computer Science and Technology</strong>, Hebei Normal University</div>
+    <div class="tags"><span class="tag">Rank 1/364</span><span class="tag">Outstanding Thesis</span></div>
+  </div>
+</div>
+
+<div class="timeline lang-zh block">
+  <div class="timeline-item">
+    <div class="timeline-time">2024.09 - 至今</div>
+    <div><strong>计算机技术 硕士</strong>，天津大学</div>
+    <div class="tags"><span class="tag">图数据挖掘</span><span class="tag">大语言模型</span><span class="tag">智能体</span></div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-time">2020.09 - 2024.06</div>
+    <div><strong>计算机科学与技术 本科</strong>，河北师范大学</div>
+    <div class="tags"><span class="tag">综合排名 1/364</span><span class="tag">本科优秀毕业论文</span></div>
+  </div>
+</div>
+
+<span id="honors-and-awards"></span>
+
+## <span class="emoji">🏆</span>Honors and Awards
+
+<div class="lang-en block">
+<ul>
+  <li>AAAI 2026 Oral Paper, first author.</li>
+  <li>Gold Award, IEEE BigData International Competition.</li>
+  <li>Best Team Award, IJCAI 2025 International Competition.</li>
+  <li>First-Class Scholarship, Tianjin University.</li>
+  <li>Merit Student Honor Certificate, Tianjin University.</li>
+  <li>Hebei Province Merit Student Honor Certificate.</li>
+  <li>First-Class Scholarship and Merit Student Honor Certificates, Hebei Normal University.</li>
+  <li>National Third Prize, Lanqiao Cup Competition; Bronze Award, China Collegiate Programming Contest.</li>
+</ul>
+</div>
+
+<div class="lang-zh block">
+<ul>
+  <li>AAAI 2026 Oral 论文，一作。</li>
+  <li>IEEE BigData 国际竞赛金奖。</li>
+  <li>IJCAI 2025 国际竞赛最佳团队奖。</li>
+  <li>天津大学一等奖学金。</li>
+  <li>天津大学三好学生荣誉证书。</li>
+  <li>河北省三好学生荣誉证书。</li>
+  <li>河北师范大学一等奖学金、三好学生荣誉证书。</li>
+  <li>蓝桥杯大赛国家三等奖；中国大学生程序设计竞赛铜奖。</li>
+</ul>
+</div>
+
+## <span class="emoji">📄</span>CV
+
+<div class="lang-en block">
+My latest CV is available here: <a href="/files/Bing_Hao_CV.pdf" target="_blank"><strong>CV (PDF)</strong></a>.
+</div>
+<div class="lang-zh block">
+我的最新简历可以在这里查看：<a href="/files/Bing_Hao_CV.pdf" target="_blank"><strong>CV（PDF）</strong></a>。
+</div>

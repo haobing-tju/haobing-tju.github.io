@@ -1,0 +1,16 @@
+# main links, following the one-page anchor style of AcadHomepage
+main:
+  - title: "About Me"
+    url: "/#about-me"
+  - title: "Research Interests"
+    url: "/#research-interests"
+  - title: "Publications"
+    url: "/#publications"
+  - title: "Professional Services"
+    url: "/#professional-services"
+  - title: "Experience"
+    url: "/#experience"
+  - title: "Honors and Awards"
+    url: "/#honors-and-awards"
+  - title: "CV (PDF)"
+    url: "/files/Bing_Hao_CV.pdf"

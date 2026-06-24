@@ -1,0 +1,17 @@
+---
+layout: compress
+---
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include masthead.html %}
+    <main class="page-wrapper">
+      {% include sidebar.html %}
+      <article class="main-content">
+        {{ content }}
+      </article>
+    </main>
+    {% include scripts.html %}
+  </body>
+</html>

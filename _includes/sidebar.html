@@ -1,0 +1,15 @@
+<aside class="sidebar">
+  <div class="author-card">
+    <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" class="author-avatar">
+    <h2>{{ site.author.name }}</h2>
+    <p class="author-bio">{{ site.author.bio }}</p>
+    <p class="author-affiliation">{{ site.author.employer }}</p>
+    <ul class="author-links">
+      <li><span class="icon">📍</span>{{ site.author.location }}</li>
+      <li><span class="icon">✉️</span><a href="mailto:{{ site.author.email }}">Email</a></li>
+      <li><span class="icon">💻</span><a href="https://github.com/{{ site.author.github }}" target="_blank">Github</a></li>
+      <li><span class="icon">🎓</span><a href="#" onclick="return false;">Google Scholar</a></li>
+      <li><span class="icon">📄</span><a href="{{ '/files/Bing_Hao_CV.pdf' | relative_url }}" target="_blank">CV</a></li>
+    </ul>
+  </div>
+</aside>

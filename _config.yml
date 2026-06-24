@@ -1,0 +1,61 @@
+# Site Settings
+# Based on the Jekyll organization of RayeRen/acad-homepage.github.io
+
+title: "Bing Hao - Homepage"
+description: "Personal academic homepage of Bing Hao, Master student at Tianjin University."
+repository: "haobing-tju/haobing-tju.github.io"
+url: "https://haobing-tju.github.io"
+baseurl: ""
+
+google_scholar_stats_use_cdn: false
+google_analytics_id:
+
+author:
+  name: "Bing Hao"
+  avatar: "images/profile.jpeg"
+  bio: "Master Student"
+  location: "Tianjin, China"
+  employer: "Tianjin University"
+  email: "haobing@tju.edu.cn"
+  github: "haobing-tju"
+  googlescholar:
+  linkedin:
+  dblp:
+  orcid:
+
+include:
+  - _pages
+  - files
+  - images
+
+exclude:
+  - docs
+  - google_scholar_crawler
+  - node_modules
+  - vendor
+  - README-source.md
+  - package.json
+  - Gemfile.lock
+
+encoding: "utf-8"
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+timezone: Asia/Shanghai
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true
