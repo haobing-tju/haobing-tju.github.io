@@ -11,16 +11,17 @@ redirect_from:
 <span id="about-me"></span>
 
 <div class="hero-text block lang-en">
-Hi! I am <strong>Bing Hao</strong>, a Master's student in <strong>Computer Technology</strong> at <strong>Tianjin University</strong>. My research lies at the intersection of <strong>graph mining</strong>, <strong>large language models</strong>, and <strong>agent systems</strong>. I am especially interested in enabling LLMs and multi-agent systems to reason over dynamic, structured, and large-scale graph data.
+Hi! I am <strong>Bing Hao</strong>, a Master's student in <strong>Computer Technology</strong> at <strong>Tianjin University</strong>, ranking <strong>1st in my program</strong>. My research mainly focuses on <strong>graph data mining</strong>, <strong>large language models</strong>, and <strong>agent systems</strong>. So far, I have four CCF-A conference papers accepted, two of which were selected for Oral presentation.
 <br><br>
-I received my B.E. degree in Computer Science and Technology from <strong>Hebei Normal University</strong>, where I ranked <strong>1/364</strong>. I am now working on dynamic graph reasoning, temporal motif analysis, graph-of-thought reasoning, and efficient/interpretable LLM reasoning.
+Besides research, I have also excelled in programming and academic competitions, winning awards in the <strong>Lanqiao Cup National Contest</strong>, <strong>CCPC</strong>, <strong>IEEE BigData 2024 International Competition</strong>, <strong>IJCAI 2025 International Competition</strong>, and various other contests.
 </div>
 
 <div class="hero-text block lang-zh">
-你好！我是<strong>郝冰</strong>，现为<strong>天津大学计算机技术专业硕士研究生</strong>。我的研究方向集中在<strong>图数据挖掘</strong>、<strong>大语言模型</strong>与<strong>智能体系统</strong>的交叉领域，尤其关注如何让 LLM 和多智能体系统在动态、结构化、大规模图数据上进行可靠推理。
+你好！我是<strong>郝冰</strong>，现为<strong>天津大学计算机技术专业硕士研究生</strong>，综合排名<strong>专业第一</strong>。硕士期间的研究方向主要集中在<strong>图数据挖掘</strong>、<strong>大语言模型</strong>与<strong>智能体系统</strong>。目前已录用 4 篇 CCF A 类会议论文，其中 2 篇荣获 Oral。
 <br><br>
-本科毕业于<strong>河北师范大学计算机科学与技术专业</strong>，综合排名 <strong>1/364</strong>。目前主要开展动态图推理、时序模体分析、Graph-of-Thought 推理以及高效可解释的大模型推理研究。
+除了科研之外，我也积极参加程序设计与学术竞赛，曾在<strong>蓝桥杯全国总决赛</strong>、<strong>中国大学生程序设计竞赛 CCPC</strong>、<strong>IEEE BigData 2024 国际竞赛</strong>、<strong>IJCAI 2025 国际竞赛</strong>等赛事中获奖。
 </div>
+
 
 <div class="contact-row">
   <a href="mailto:haobing@tju.edu.cn">Email</a> /
@@ -31,17 +32,25 @@ I received my B.E. degree in Computer Science and Technology from <strong>Hebei 
 ## <span class="emoji">🔥</span>News
 
 <ul class="news-list lang-en block">
-  <li><em>2026.02</em>: Our work <strong>LLMTM</strong> has been accepted as an <strong>AAAI 2026 Oral</strong>.</li>
-  <li><em>2026</em>: Our work <strong>SPOT</strong> has been accepted to <strong>KDD 2026</strong>.</li>
-  <li><em>2026</em>: Our work <strong>RouteGoT</strong> has been accepted to <strong>KDD 2026</strong>.</li>
-  <li><em>2025</em>: Won the <strong>Best Team Award</strong> in an IJCAI 2025 international competition.</li>
+  <li><em>2026.06</em>: 🎉 Our work <a href="https://arxiv.org/abs/2606.16328" target="_blank"><strong>AdaSTORM</strong></a> is now on arXiv! 🎉</li>
+  <li><em>2026.05</em>: 🎉 Our work <a href="https://arxiv.org/abs/2603.05818" target="_blank"><strong>RouteGoT</strong></a> has been accepted to <strong>KDD 2026</strong> as an <strong>Oral presentation</strong>! 🎉</li>
+  <li><em>2026.05</em>: 🎉 Our work <a href="https://arxiv.org/abs/2603.06222" target="_blank"><strong>SPOT</strong></a> has been accepted to <strong>KDD 2026</strong>! 🎉</li>
+  <li><em>2026.04</em>: 🎉 Our work <a href="https://arxiv.org/abs/2510.19384" target="_blank"><strong>ADAligner</strong></a> has been accepted to <strong>SIGIR 2026</strong>! 🎉</li>
+  <li><em>2025.11</em>: 🎉 Our work <a href="https://arxiv.org/abs/2512.22266" target="_blank"><strong>LLMTM</strong></a> has been accepted as an <strong>AAAI 2026 Oral</strong>! 🎉</li>
+  <li><em>2025.09</em>: 🎉 Won the <strong>Best Team Award</strong> in an <strong>IJCAI 2025 international competition</strong>! 🎉</li>
+  <li><em>2024.11</em>: 🎉 Won the <strong>Gold Medal</strong> in an <strong>IEEE BigData 2024 international competition</strong>! 🎉</li>
 </ul>
+
 <ul class="news-list lang-zh block">
-  <li><em>2026.02</em>：论文 <strong>LLMTM</strong> 被 <strong>AAAI 2026 Oral</strong> 录用。</li>
-  <li><em>2026</em>：论文 <strong>SPOT</strong> 被 <strong>KDD 2026</strong> 录用。</li>
-  <li><em>2026</em>：论文 <strong>RouteGoT</strong> 被 <strong>KDD 2026</strong> 录用。</li>
-  <li><em>2025</em>：获得 IJCAI 2025 国际竞赛最佳团队奖。</li>
+  <li><em>2026.06</em>：🎉 论文 <a href="https://arxiv.org/abs/2606.16328" target="_blank"><strong>AdaSTORM</strong></a> 已上线 <strong>arXiv</strong>！🎉</li>
+  <li><em>2026.05</em>：🎉 论文 <a href="https://arxiv.org/abs/2603.05818" target="_blank"><strong>RouteGoT</strong></a> 被 <strong>KDD 2026 Oral</strong> 录用！🎉</li>
+  <li><em>2026.05</em>：🎉 论文 <a href="https://arxiv.org/abs/2603.06222" target="_blank"><strong>SPOT</strong></a> 被 <strong>KDD 2026</strong> 录用！🎉</li>
+  <li><em>2026.05</em>：🎉 论文 <a href="https://arxiv.org/abs/2510.19384" target="_blank"><strong>ADAligner</strong></a> 被 <strong>SIGIR 2026</strong> 录用！🎉</li>
+  <li><em>2025.11</em>：🎉 论文 <a href="https://arxiv.org/abs/2512.22266" target="_blank"><strong>LLMTM</strong></a> 被 <strong>AAAI 2026 Oral</strong> 录用！🎉</li>
+  <li><em>2025.09</em>：🎉 获得 <strong>IJCAI 2025 国际竞赛最佳团队奖</strong>！🎉</li>
+  <li><em>2024.11</em>：🎉 获得 <strong>IEEE BigData 2024 国际竞赛金奖</strong>！🎉</li>
 </ul>
+
 
 <span id="research-interests"></span>
 
