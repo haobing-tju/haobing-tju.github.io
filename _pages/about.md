@@ -104,17 +104,42 @@ Besides research, I have also excelled in programming and academic competitions,
 
 ## <span class="emoji">📝</span>Publications
 
-<div class="pub-item">
-  <img class="pub-thumb" src="/images/pub_llmtm.png" alt="LLMTM thumbnail">
-  <div>
-    <p class="pub-title">LLMTM: Benchmarking and Optimizing LLMs for Temporal Motif Analysis in Dynamic Graphs</p>
-    <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
-    <p class="pub-venue"><strong>AAAI 2026 Oral</strong> · First Author</p>
-    <div class="pub-desc lang-en block"> <ol class="pub-points"> <li>We construct the first <strong>benchmark</strong> for temporal motif reasoning in dynamic graphs, systematically evaluating 9 LLMs across 9 classical temporal motifs and 6 tasks on spatio-temporal graph reasoning.</li> <li>We propose a tool-augmented Agent framework that integrates <strong>Motif Memory</strong>, <strong>Verifier Trace</strong>, and <strong>Reflexion</strong>, achieving nearly 100% accuracy on complex motif analysis.</li> <li>We design a structure-aware allocator and construct SFT data for optimization, adaptively routing standard LLMs and tool-augmented Agents to maintain over 90% accuracy while reducing inference cost by approximately 40%.</li> </ol> </div>
-    <div class="pub-desc lang-zh block"> <ol class="pub-points"> <li>构建首个动态图时序模体推理 <strong>Benchmark</strong>，系统评估 9 种 LLM 在 9 类经典时序模体、6 项任务上的时空图推理能力。</li> <li>提出融合 <strong>Motif Memory</strong>、<strong>Verifier Trace</strong> 与 <strong>Reflexion</strong> 的工具增强型 Agent，实现复杂模体分析近 100% 准确率。</li> <li>设计结构感知分配器，构造 SFT 数据进行优化，自适应路由标准 LLM 与工具增强型 Agent，在保持 90%+ 准确率的同时降低约 40% 的推理成本。</li> </ol> </div>
-    <p class="pub-links"><a href="#">Paper</a> <a href="#">Code</a></p>
+<div class="pub-item pub-item-wide">
+  <div class="pub-main">
+    <img class="pub-thumb" src="/images/pub_llmtm.png" alt="LLMTM thumbnail">
+
+```
+<div class="pub-info">
+  <p class="pub-title">
+  <a href="https://arxiv.org/abs/2512.22266" target="_blank">
+    LLMTM: Benchmarking and Optimizing LLMs for Temporal Motif Analysis in Dynamic Graphs
+  </a>
+</p>
+
+  <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
+  <p class="pub-venue"><strong>AAAI 2026 Oral</strong> · First Author</p>
+</div>
+```
+
+  </div>
+
+  <div class="pub-desc lang-en block">
+    <ol class="pub-points">
+      <li>We construct the first <strong>benchmark</strong> for temporal motif reasoning in dynamic graphs, systematically evaluating 9 LLMs across 9 classical temporal motifs and 6 tasks on spatio-temporal graph reasoning.</li>
+      <li>We propose a tool-augmented Agent framework that integrates <strong>Motif Memory</strong>, <strong>Verifier Trace</strong>, and <strong>Reflexion</strong>, achieving nearly 100% accuracy on complex motif analysis.</li>
+      <li>We design a structure-aware allocator and construct SFT data for optimization, adaptively routing standard LLMs and tool-augmented Agents to maintain over 90% accuracy while reducing inference cost by approximately 40%.</li>
+    </ol>
+  </div>
+
+  <div class="pub-desc lang-zh block">
+    <ol class="pub-points">
+      <li>构建首个动态图时序模体推理 <strong>Benchmark</strong>，系统评估 9 种 LLM 在 9 类经典时序模体、6 项任务上的时空图推理能力。</li>
+      <li>提出融合 <strong>Motif Memory</strong>、<strong>Verifier Trace</strong> 与 <strong>Reflexion</strong> 的工具增强型 Agent，实现复杂模体分析近 100% 准确率。</li>
+      <li>设计结构感知分配器，构造 SFT 数据进行优化，自适应路由标准 LLM 与工具增强型 Agent，在保持 90%+ 准确率的同时降低约 40% 的推理成本。</li>
+    </ol>
   </div>
 </div>
+
 
 <div class="pub-item">
   <img class="pub-thumb" src="/images/pub_adastorm.png" alt="AdaSTORM thumbnail">
