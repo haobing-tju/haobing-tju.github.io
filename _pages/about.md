@@ -23,11 +23,7 @@ Besides research, I have also excelled in programming and academic competitions,
 </div>
 
 
-<div class="contact-row">
-  <a href="haobing@tju.edu.cn">Email</a> /
-  <a href="https://github.com/haobing-tju" target="_blank">Github</a> /
-  <a href="/files/Bing_Hao_CV.pdf" target="_blank">CV</a>
-</div>
+<div class="contact-row"> <a href="mailto:haobing@tju.edu.cn">Email</a> / <a href="https://github.com/haobing-tju" target="_blank">GitHub</a> / <a href="https://orcid.org/my-orcid?orcid=0009-0009-5818-7713" target="_blank">ORCID</a> / <a href="https://scholar.google.com/citations?user=NsC1oOoAAAAJ&hl=en" target="_blank">Google Scholar</a> / <a href="/files/Bing_Hao_CV.pdf" target="_blank">CV</a> </div>
 
 ## <span class="emoji">🔥</span>News
 
@@ -45,7 +41,7 @@ Besides research, I have also excelled in programming and academic competitions,
   <li><em>2026.06</em>：🎉 论文 <a href="https://arxiv.org/abs/2606.16328" target="_blank"><strong>AdaSTORM</strong></a> 已上线 <strong>arXiv</strong>！🎉</li>
   <li><em>2026.05</em>：🎉 论文 <a href="https://arxiv.org/abs/2603.05818" target="_blank"><strong>RouteGoT</strong></a> 被 <strong>KDD 2026 Oral</strong> 录用！🎉</li>
   <li><em>2026.05</em>：🎉 论文 <a href="https://arxiv.org/abs/2603.06222" target="_blank"><strong>SPOT</strong></a> 被 <strong>KDD 2026</strong> 录用！🎉</li>
-  <li><em>2026.05</em>：🎉 论文 <a href="https://arxiv.org/abs/2510.19384" target="_blank"><strong>ADAligner</strong></a> 被 <strong>SIGIR 2026</strong> 录用！🎉</li>
+  <li><em>2026.04</em>：🎉 论文 <a href="https://arxiv.org/abs/2510.19384" target="_blank"><strong>ADAligner</strong></a> 被 <strong>SIGIR 2026</strong> 录用！🎉</li>
   <li><em>2025.11</em>：🎉 论文 <a href="https://arxiv.org/abs/2512.22266" target="_blank"><strong>LLMTM</strong></a> 被 <strong>AAAI 2026 Oral</strong> 录用！🎉</li>
   <li><em>2025.09</em>：🎉 获得 <strong>IJCAI 2025 国际竞赛最佳团队奖</strong>！🎉</li>
   <li><em>2024.11</em>：🎉 获得 <strong>IEEE BigData 2024 国际竞赛金奖</strong>！🎉</li>
@@ -57,25 +53,56 @@ Besides research, I have also excelled in programming and academic competitions,
 ## <span class="emoji">🔬</span>Research Interests
 
 <div class="interests lang-en grid">
-  <div class="interest-card"><strong>LLM Reasoning on Dynamic Graphs</strong>Temporal motif analysis, reachability, connected components, and large-scale dynamic graph reasoning.</div>
-  <div class="interest-card"><strong>Multi-Agent Systems for Graphs</strong>Adaptive graph partitioning, spatio-temporal collaboration, scheduling, and budget-aware reasoning.</div>
-  <div class="interest-card"><strong>Graph-of-Thought Reasoning</strong>Node-adaptive routing, strong/weak model collaboration, and cost-efficient structured reasoning.</div>
-  <div class="interest-card"><strong>Efficient and Interpretable LLM Reasoning</strong>Latent reasoning, CoT compression, SFT/RFT, GRPO, and post-training alignment.</div>
+
+  <div class="interest-card">
+    <strong>Graph Data Mining</strong>
+    Dynamic graph reasoning, temporal motif analysis, reachability, connected components, community detection, reinforcement learning based adaptive graph partitioning, spatio-temporal decoupling, and structure-aware routing.
+  </div>
+
+  <div class="interest-card">
+    <strong>Large Language Models</strong>
+    Graph-of-Thought structured reasoning, node-adaptive routing, accuracy-cost trade-off, latent reasoning, CoT compression, SFT/RFT, GRPO, and reinforcement learning for LLM reasoning.
+  </div>
+
+  <div class="interest-card">
+    <strong>Agent Systems</strong>
+    Tool-augmented agents, multi-agent systems, collaborative reasoning, agentic workflows, LangChain, LangGraph, and LLM-based autonomous systems.
+  </div>
+
+  <div class="interest-card">
+    <strong>Emerging AI Technologies</strong>
+    I am broadly interested in new and exciting AI technologies, including multimodal intelligence, AI agents, reasoning models, post-training methods, and AI systems that can solve real-world scientific and engineering problems.
+  </div>
+
 </div>
 
 <div class="interests lang-zh grid">
-  <div class="interest-card"><strong>动态图上的大模型推理</strong>时序模体分析、可达性、连通分量与大规模动态图结构推理。</div>
-  <div class="interest-card"><strong>面向图推理的多智能体系统</strong>自适应图划分、时空协同、调度机制与预算感知推理。</div>
-  <div class="interest-card"><strong>Graph-of-Thought 结构化推理</strong>节点自适应路由、强弱模型协同与成本高效的复杂图推理。</div>
-  <div class="interest-card"><strong>高效可解释的大模型推理</strong>隐式推理、CoT 压缩、SFT/RFT、GRPO 与后训练对齐。</div>
+
+  <div class="interest-card">
+    <strong>图数据挖掘</strong>
+    动态图推理、时序模体分析、可达性、连通分量、社区检测、基于强化学习的自适应图划分、时空解耦与结构感知路由。
+  </div>
+
+  <div class="interest-card">
+    <strong>大语言模型</strong>
+    Graph-of-Thought 结构化推理、节点级自适应路由、性能—开销平衡、隐式推理、CoT 压缩、SFT/RFT、GRPO 与面向大模型推理的强化学习。
+  </div>
+
+  <div class="interest-card">
+    <strong>智能体系统</strong>
+    工具增强型智能体、多智能体系统、协作式推理、Agent 工作流、LangChain、LangGraph 与基于大语言模型的自主智能系统。
+  </div>
+
+  <div class="interest-card">
+    <strong>前沿人工智能技术</strong>
+    我也持续关注各类新兴 AI 技术，包括多模态智能、AI Agent、推理模型、后训练方法，以及能够解决真实科研与工程问题的智能系统。
+  </div>
+
 </div>
 
 <span id="publications"></span>
 
 ## <span class="emoji">📝</span>Publications
-
-<p class="section-note lang-en block">* denotes equal contribution. Publication links can be updated when arXiv/code pages are public.</p>
-<p class="section-note lang-zh block">* 表示共同一作。论文链接和代码链接可在公开后继续更新。</p>
 
 <div class="pub-item">
   <img class="pub-thumb" src="/images/pub_llmtm.png" alt="LLMTM thumbnail">
