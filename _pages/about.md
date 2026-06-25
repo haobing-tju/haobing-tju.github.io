@@ -271,7 +271,7 @@ Besides research, I have also excelled in programming and academic competitions,
 
 
 
-<span id="professional-services"></span>
+<!-- <span id="professional-services"></span>
 
 ## <span class="emoji">🤝</span>Professional Services
 
@@ -288,13 +288,30 @@ Besides research, I have also excelled in programming and academic competitions,
   <li><strong>科研项目：</strong>参与面向大规模复杂网络的大语言模型高信效推理、社交媒体影响力塑造的自主成长智能体与协同博弈等国家自然科学基金项目。</li>
   <li><strong>学术协作：</strong>具备国际竞赛协作、图推理与 LLM Agent 科研工程经验。</li>
 </ul>
-</div>
+</div> -->
 
 <span id="experience"></span>
 
 ## <span class="emoji">🎓</span>Experience
+<div class="lang-en block">
+  <ul>
+    <li><strong>Conference presentation:</strong> Delivered an oral presentation for LLMTM at The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26).</li>
+    <li><strong>Research projects:</strong> Participated in NSFC-funded projects on efficient LLM reasoning for large-scale complex networks, self-evolving agents, and cooperative game modeling for social media influence shaping.</li>
+    <li><strong>Academic collaboration:</strong> Gained experience in international competition collaboration and research engineering for graph data mining, LLM reasoning, and agent systems.</li>
+  </ul>
+</div>
 
-<div class="timeline lang-en block">
+<div class="lang-zh block">
+  <ul>
+    <li><strong>学术报告：</strong>在 The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) 完成 LLMTM 论文口头报告。</li>
+    <li><strong>科研项目：</strong>参与面向大规模复杂网络的大语言模型高效推理、社交媒体影响力塑造中的自主成长智能体与协同博弈等国家自然科学基金项目。</li>
+    <li><strong>学术协作：</strong>具备国际竞赛协作，以及图数据挖掘、大语言模型推理与 Agent 系统方向的科研工程经验。</li>
+  </ul>
+</div>
+
+
+
+<!-- <div class="timeline lang-en block">
   <div class="timeline-item">
     <div class="timeline-time">2024.09 - Present</div>
     <div><strong>M.S. in Computer Technology</strong>, Tianjin University</div>
@@ -318,37 +335,44 @@ Besides research, I have also excelled in programming and academic competitions,
     <div><strong>计算机科学与技术 本科</strong>，河北师范大学</div>
     <div class="tags"><span class="tag">综合排名 1/364</span><span class="tag">本科优秀毕业论文</span></div>
   </div>
-</div>
+</div> -->
 
 <span id="honors-and-awards"></span>
 
 ## <span class="emoji">🏆</span>Honors and Awards
 
 <div class="lang-en block">
-<ul>
-  <li>AAAI 2026 Oral Paper, first author.</li>
-  <li>Gold Award, IEEE BigData International Competition.</li>
-  <li>Best Team Award, IJCAI 2025 International Competition.</li>
-  <li>First-Class Scholarship, Tianjin University.</li>
-  <li>Merit Student Honor Certificate, Tianjin University.</li>
-  <li>Hebei Province Merit Student Honor Certificate.</li>
-  <li>First-Class Scholarship and Merit Student Honor Certificates, Hebei Normal University.</li>
-  <li>National Third Prize, Lanqiao Cup Competition; Bronze Award, China Collegiate Programming Contest.</li>
-</ul>
+  <ul>
+    <li>Gold Award, IEEE BigData 2024 International Competition.</li>
+    <li>Best Team Award, IJCAI 2025 International Competition.</li>
+    <li>First-Class Scholarship, Tianjin University.</li>
+    <li>Merit Student Honor Certificate, Tianjin University.</li>
+    <li>Hebei Province Merit Student Honor Certificate.</li>
+    <li>National Third Prize, Lanqiao Cup Competition.</li>
+    <li>Bronze Award, China Collegiate Programming Contest.</li>
+    <li>Third Prize, National Undergraduate Mathematics Competition.</li>
+    <li>CET-6 Certificate.</li>
+    <li>Three-time First-Class Scholarship, Hebei Normal University.</li>
+    <li>Three-time Merit Student Honor Certificate, Hebei Normal University.</li>
+  </ul>
 </div>
 
 <div class="lang-zh block">
-<ul>
-  <li>AAAI 2026 Oral 论文，一作。</li>
-  <li>IEEE BigData 国际竞赛金奖。</li>
-  <li>IJCAI 2025 国际竞赛最佳团队奖。</li>
-  <li>天津大学一等奖学金。</li>
-  <li>天津大学三好学生荣誉证书。</li>
-  <li>河北省三好学生荣誉证书。</li>
-  <li>河北师范大学一等奖学金、三好学生荣誉证书。</li>
-  <li>蓝桥杯大赛国家三等奖；中国大学生程序设计竞赛铜奖。</li>
-</ul>
+  <ul>
+    <li>IEEE BigData 2024 国际竞赛金奖。</li>
+    <li>IJCAI 2025 国际竞赛最佳团队奖。</li>
+    <li>天津大学一等奖学金。</li>
+    <li>天津大学三好学生荣誉证书。</li>
+    <li>河北省三好学生荣誉证书。</li>
+    <li>蓝桥杯大赛国家三等奖。</li>
+    <li>中国大学生程序设计竞赛铜奖。</li>
+    <li>全国大学生数学竞赛三等奖。</li>
+    <li>大学英语六级证书。</li>
+    <li>三次获得河北师范大学一等奖学金。</li>
+    <li>三次获得河北师范大学三好学生荣誉证书。</li>
+  </ul>
 </div>
+
 
 ## <span class="emoji">📄</span>CV
 
