@@ -23,7 +23,7 @@ Besides research, I have also excelled in programming and academic competitions,
 </div>
 
 
-<div class="contact-row"> <a href="mailto:haobing@tju.edu.cn">Email</a> / <a href="https://github.com/haobing-tju" target="_blank">GitHub</a> / <a href="https://orcid.org/my-orcid?orcid=0009-0009-5818-7713" target="_blank">ORCID</a> / <a href="https://scholar.google.com/citations?user=NsC1oOoAAAAJ&hl=en" target="_blank">Google Scholar</a> / <a href="/files/Bing_Hao_CV.pdf" target="_blank">CV</a> </div>
+<div class="contact-row"> <a href="mailto:haobing@tju.edu.cn">Email</a> / <a href="https://github.com/haobing-tju" target="_blank">GitHub</a> / <a href="https://orcid.org/0009-0009-5818-7713" target="_blank">ORCID</a> / <a href="https://scholar.google.com/citations?user=NsC1oOoAAAAJ&hl=en" target="_blank">Google Scholar</a> / <a href="/files/Bing_Hao_CV.pdf" target="_blank">CV</a> </div>
 
 ## <span class="emoji">🔥</span>News
 
@@ -237,8 +237,7 @@ Besides research, I have also excelled in programming and academic competitions,
     <li>设计全局预算感知调度器，结合深度/宽度控制与 Plan-guided Fallback 回退策略，在预算受限条件下平衡准确率与 Token 成本。对比 AGoT，准确率提升 8.1%，Token 开销降低 79.1%。</li>
   </ol>
 </div>
-
-
+</div>
 
 
 <div class="pub-item pub-item-wide">
@@ -275,7 +274,7 @@ Besides research, I have also excelled in programming and academic competitions,
   </div>
 </div>
 
-</div>
+
 
 <!-- <span id="professional-services"></span>
 
