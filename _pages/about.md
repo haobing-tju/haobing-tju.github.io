@@ -111,11 +111,10 @@ Besides research, I have also excelled in programming and academic competitions,
 ```
 <div class="pub-info">
   <p class="pub-title">
-  <a href="https://arxiv.org/abs/2512.22266" target="_blank">
-    LLMTM: Benchmarking and Optimizing LLMs for Temporal Motif Analysis in Dynamic Graphs
-  </a>
-</p>
-
+    <a href="https://arxiv.org/abs/2512.22266" target="_blank">
+      LLMTM: Benchmarking and Optimizing LLMs for Temporal Motif Analysis in Dynamic Graphs
+    </a>
+  </p>
   <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
   <p class="pub-venue"><strong>AAAI 2026 Oral</strong> · First Author</p>
 </div>
@@ -139,6 +138,7 @@ Besides research, I have also excelled in programming and academic competitions,
     </ol>
   </div>
 </div>
+
 
 
 <div class="pub-item">
