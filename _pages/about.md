@@ -108,7 +108,6 @@ Besides research, I have also excelled in programming and academic competitions,
   <div class="pub-main">
     <img class="pub-thumb" src="/images/pub_llmtm.png" alt="LLMTM thumbnail">
 
-```
 <div class="pub-info">
   <p class="pub-title">
     <a href="https://arxiv.org/abs/2512.22266" target="_blank">
@@ -118,7 +117,6 @@ Besides research, I have also excelled in programming and academic competitions,
   <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
   <p class="pub-venue"><strong>AAAI 2026 Oral</strong> · First Author</p>
 </div>
-```
 
   </div>
 
@@ -141,41 +139,137 @@ Besides research, I have also excelled in programming and academic competitions,
 
 
 
-<div class="pub-item">
-  <img class="pub-thumb" src="/images/pub_adastorm.png" alt="AdaSTORM thumbnail">
-  <div>
-    <p class="pub-title">AdaSTORM: Scaling LLM Reasoning on Dynamic Graphs via Adaptive Spatio-Temporal Multi-Agent Collaboration</p>
-    <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
-    <p class="pub-venue">Manuscript / Under Review · First Author</p>
-    <p class="pub-desc lang-en block">A dynamic graph multi-agent reasoning framework that leverages graph partitionability and spatio-temporal decomposition to scale LLM graph reasoning from small graphs to much larger settings.</p>
-    <p class="pub-desc lang-zh block">利用动态图的可划分性与时空解耦性，构建动态图多智能体推理框架，通过区域并行和跨区域协同突破单智能体规模瓶颈。</p>
-    <p class="pub-links"><a href="#">Paper</a> <a href="#">Code</a></p>
+<div class="pub-item pub-item-wide">
+  <div class="pub-main">
+    <img class="pub-thumb" src="/images/pub_adastorm.png" alt="AdaSTORM thumbnail">
+
+<div class="pub-info">
+  <p class="pub-title">
+    AdaSTORM: Scaling LLM Reasoning on Dynamic Graphs via Adaptive Spatio-Temporal Multi-Agent Collaboration
+  </p>
+  <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
+  <p class="pub-venue">arXiv Preprint · First Author</p>
+</div>
+
+  </div>
+
+  <div class="pub-desc lang-en block">
+    <ol class="pub-points">
+      <li>We leverage the partitionability and spatio-temporal decomposability of dynamic graphs to propose the first <strong>Multi-Agent</strong> reasoning framework for dynamic graphs, enabling regional parallelism as well as cross-temporal and cross-region collaboration, thereby breaking the scaling bottleneck of Single-Agent reasoning from tens of nodes to thousands of nodes.</li>
+      <li>We design a reinforcement learning based adaptive partitioner that dynamically performs region partitioning and node migration, allowing each subgraph region to match the model's reasoning capacity while minimizing the global inference cost.</li>
+      <li>Compared with seven types of baselines, AdaSTORM maintains over 90% accuracy across multiple tasks and achieves 100% accuracy on temporal motif counting with N=500. It reaches SOTA performance on existing graph reasoning benchmarks and successfully generalizes to real-world datasets.</li>
+    </ol>
+  </div>
+
+  <div class="pub-desc lang-zh block">
+    <ol class="pub-points">
+      <li>利用动态图的可划分性和时空解耦性，提出首个动态图 <strong>Multi-Agent</strong> 推理框架，通过区域并行与跨时空、跨区域协同，突破 Single-Agent 推理的规模瓶颈（十级 → 千级）。</li>
+      <li>设计基于强化学习的自适应划分器，动态执行区域划分和节点迁移策略，使各子图区域匹配模型推理能力，并最小化全局推理成本。</li>
+      <li>相比七类基线，AdaSTORM 在多项任务中保持 90%+ 准确率，并在 N=500 的时序模体计数任务上达到 100%，在现有图推理 Benchmark 上达到 SOTA，并成功泛化至真实世界数据集。</li>
+    </ol>
   </div>
 </div>
 
-<div class="pub-item">
-  <img class="pub-thumb" src="/images/pub_spot.png" alt="SPOT thumbnail">
-  <div>
-    <p class="pub-title">SPOT: Span-level Pause-of-Thought for Efficient and Interpretable Latent Reasoning in Large Language Models</p>
-    <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
-    <p class="pub-venue"><strong>KDD 2026</strong> · Second Author</p>
-    <p class="pub-desc lang-en block">A hybrid explicit-implicit reasoning paradigm that compresses span-level CoT into latent tokens with semantic alignment and frozen-head decoding constraints.</p>
-    <p class="pub-desc lang-zh block">提出显隐式混合推理范式，将 Span 级显式 CoT 压缩为隐式 Token，并结合语义对齐和冻结 Head 解码约束提升可解释性。</p>
-    <p class="pub-links"><a href="#">Paper</a> <a href="#">Code</a></p>
+
+<div class="pub-item pub-item-wide">
+  <div class="pub-main">
+    <img class="pub-thumb" src="/images/pub_spot.png" alt="SPOT thumbnail">
+
+<div class="pub-info">
+  <p class="pub-title">
+    SPOT: Span-level Pause-of-Thought for Efficient and Interpretable Latent Reasoning in Large Language Models
+  </p>
+  <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
+  <p class="pub-venue"><strong>KDD 2026</strong> · Second Author</p>
+</div>
+
+  </div>
+
+  <div class="pub-desc lang-en block">
+    <ol class="pub-points">
+      <li>We propose <strong>SPOT</strong>, a hybrid explicit-implicit reasoning paradigm that compresses span-level explicit CoT into a single latent token based on Sinkhorn optimal transport and frozen LLM Head decoding constraints. Compared with CoT, SPOT improves accuracy by 3.6% and reduces token cost by 37%, while enabling interpretable latent reasoning.</li>
+      <li>We build a two-stage <strong>SFT+RFT</strong> training framework, introducing posterior multi-density perturbation sampling and a dynamic self-distillation data flywheel to improve the robustness of hybrid reasoning.</li>
+      <li>We introduce <strong>GRPO</strong> and design a multi-dimensional reward covering accuracy, CoT compression ratio, and latent-thinking frequency, guiding LLMs to autonomously perform hybrid explicit-implicit reasoning.</li>
+    </ol>
+  </div>
+
+  <div class="pub-desc lang-zh block">
+    <ol class="pub-points">
+      <li>提出 <strong>SPOT</strong> 显隐式混合推理范式，基于 Sinkhorn 最优传输与冻结 LLM Head 解码约束，将 Span 级显式 CoT 压缩为单个隐式 Token。对比 CoT，准确率提升 3.6%、Token 开销下降 37%，并实现隐式推理的可解释性。</li>
+      <li>构建 <strong>SFT+RFT</strong> 两阶段训练框架，创新设计后验多密度扰动采样与动态自蒸馏数据飞轮，提升混合推理鲁棒性。</li>
+      <li>引入 <strong>GRPO</strong>，构建准确率、CoT 压缩率与隐式思考频率的多维 Reward，引导大模型自主进行显隐式思考。</li>
+    </ol>
   </div>
 </div>
 
-<div class="pub-item">
-  <img class="pub-thumb" src="/images/pub_routegot.png" alt="RouteGoT thumbnail">
-  <div>
-    <p class="pub-title">RouteGoT: Node-Adaptive Routing for Cost-Efficient Graph of Thoughts Reasoning</p>
-    <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
-    <p class="pub-venue"><strong>KDD 2026</strong> · Second Author</p>
-    <p class="pub-desc lang-en block">A node-adaptive routing framework for Graph-of-Thoughts reasoning, enabling dynamic strong/weak model collaboration and budget-aware global scheduling.</p>
-    <p class="pub-desc lang-zh block">提出节点级自适应路由框架，在 GoT 推理图内部动态分配模型与推理策略，实现强弱模型协同和成本—准确率平衡。</p>
-    <p class="pub-links"><a href="#">Paper</a> <a href="#">Code</a></p>
+
+
+<div class="pub-item pub-item-wide">
+  <div class="pub-main">
+    <img class="pub-thumb" src="/images/pub_routegot.png" alt="RouteGoT thumbnail">
+
+```
+<div class="pub-info">
+  <p class="pub-title">
+    RouteGoT: Node-Adaptive Routing for Cost-Efficient Graph of Thoughts Reasoning
+  </p>
+  <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
+  <p class="pub-venue"><strong>KDD 2026 Oral</strong> · Second Author</p>
+</div>
+```
+
+  </div>
+
+  <div class="pub-desc lang-en block">
+    <ol class="pub-points">
+      <li>We propose RouteGoT, a node-adaptive routing framework with a PRM-like success predictor and an ordinal budget estimator, which dynamically assigns models and reasoning strategies to different nodes within the GoT reasoning graph, enabling test-time compute routing.</li>
+      <li>We design a budget-aware global scheduler with depth/width control and Plan-guided Fallback, balancing reasoning accuracy and token cost under constrained budgets. Compared with AGoT, RouteGoT improves accuracy by 8.1% while reducing token cost by 79.1%.</li>
+    </ol>
+  </div>
+
+  <div class="pub-desc lang-zh block">
+    <ol class="pub-points">
+      <li>提出 RouteGoT 节点级自适应路由框架，设计类 PRM 的成功率预测器与序数级预算评估器，在 GoT 推理图内部按节点动态分配模型与推理策略，实现 Test-time 动态算力路由。</li>
+      <li>设计预算感知全局调度器，结合深度/宽度控制与 Plan-guided Fallback 回退策略，在预算受限条件下平衡准确率与 Token 成本；对比 AGoT，准确率提升 8.1%，Token 开销降低 79.1%。</li>
+    </ol>
   </div>
 </div>
+
+
+
+<div class="pub-item pub-item-wide">
+  <div class="pub-main">
+    <img class="pub-thumb" src="/images/pub_adaligner.png" alt="ADAligner thumbnail">
+
+<div class="pub-info">
+  <p class="pub-title">
+    Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment
+  </p>
+  <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
+  <p class="pub-venue"><strong>SIGIR 2026</strong> · Second Student Author</p>
+</div>
+
+
+  </div>
+
+  <div class="pub-desc lang-en block">
+    <ol class="pub-points">
+      <li>We propose <strong>ADAligner</strong>, a dynamic quality-aware graph-text alignment framework that combines many-to-many soft alignment with subgraph-level graph-text alignment, alleviating the overly restrictive one-to-one pairing assumption and noisy supervision in text-attributed graphs.</li>
+      <li>We design a batch-level quality assessment control factor and a stochastic sample filtering mechanism to adaptively balance semantic richness and noise robustness.</li>
+      <li>Extensive experiments on 9 text-attributed graph datasets show stable improvements on node classification, link prediction, and cross-modal retrieval, while achieving approximately 2–3× pre-training acceleration compared with multimodal baselines.</li>
+    </ol>
+  </div>
+
+  <div class="pub-desc lang-zh block">
+    <ol class="pub-points">
+      <li>提出 <strong>ADAligner</strong> 动态质量感知图文对齐框架，结合多对多软对齐与子图级图文对齐，缓解文本属性图中一对一配对假设过强和噪声监督误导问题。</li>
+      <li>设计 batch-level 质量评估控制因子与随机样本过滤机制，自适应平衡语义丰富性与噪声鲁棒性。</li>
+      <li>在 9 个 TAG 数据集的节点分类、链路预测和跨模态检索任务中取得稳定提升，并相比多模态基线实现约 2–3× 预训练加速。</li>
+    </ol>
+  </div>
+</div>
+
+
 
 <span id="professional-services"></span>
 
