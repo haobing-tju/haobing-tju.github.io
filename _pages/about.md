@@ -131,8 +131,8 @@ Besides research, I have also excelled in programming and academic competitions,
   <div class="pub-desc lang-zh block">
     <ol class="pub-points">
       <li>构建首个动态图时序模体推理 <strong>Benchmark</strong>，系统评估 9 种 LLM 在 9 类经典时序模体、6 项任务上的时空图推理能力。</li>
-      <li>提出融合 <strong>Motif Memory</strong>、<strong>Verifier Trace</strong> 与 <strong>Reflexion</strong> 的工具增强型 Agent，实现复杂模体分析近 100% 准确率。</li>
-      <li>设计结构感知分配器，构造 SFT 数据进行优化，自适应路由标准 LLM 与工具增强型 Agent，在保持 90%+ 准确率的同时降低约 40% 的推理成本。</li>
+      <li>提出融合 <strong>Motif Memory</strong>、<strong>Verifier Trace</strong> 与 <strong>Reflexion</strong> 的工具增强型 Agent，实现复杂模体分析近 100% 的准确率。</li>
+      <li>设计结构感知分配器，构造 SFT 数据进行优化，自适应路由标准 LLM 与工具增强型Agent，在保持 90%+ 准确率的同时降低约 40% 的推理成本。</li>
     </ol>
   </div>
 </div>
@@ -145,7 +145,9 @@ Besides research, I have also excelled in programming and academic competitions,
 
 <div class="pub-info">
   <p class="pub-title">
+    <a href="https://arxiv.org/abs/2606.16328" target="_blank">
     AdaSTORM: Scaling LLM Reasoning on Dynamic Graphs via Adaptive Spatio-Temporal Multi-Agent Collaboration
+    </a>  
   </p>
   <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
   <p class="pub-venue">arXiv Preprint · First Author</p>
@@ -177,7 +179,9 @@ Besides research, I have also excelled in programming and academic competitions,
 
 <div class="pub-info">
   <p class="pub-title">
+    <a href="https://arxiv.org/abs/2603.06222" target="_blank">
     SPOT: Span-level Pause-of-Thought for Efficient and Interpretable Latent Reasoning in Large Language Models
+    </a>
   </p>
   <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
   <p class="pub-venue"><strong>KDD 2026</strong> · Second Author</p>
@@ -208,32 +212,32 @@ Besides research, I have also excelled in programming and academic competitions,
   <div class="pub-main">
     <img class="pub-thumb" src="/images/pub_routegot.png" alt="RouteGoT thumbnail">
 
-```
 <div class="pub-info">
   <p class="pub-title">
+    <a href="https://arxiv.org/abs/2603.05818" target="_blank">
     RouteGoT: Node-Adaptive Routing for Cost-Efficient Graph of Thoughts Reasoning
+    </a>
   </p>
   <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
   <p class="pub-venue"><strong>KDD 2026 Oral</strong> · Second Author</p>
 </div>
-```
 
   </div>
 
   <div class="pub-desc lang-en block">
-    <ol class="pub-points">
-      <li>We propose RouteGoT, a node-adaptive routing framework with a PRM-like success predictor and an ordinal budget estimator, which dynamically assigns models and reasoning strategies to different nodes within the GoT reasoning graph, enabling test-time compute routing.</li>
-      <li>We design a budget-aware global scheduler with depth/width control and Plan-guided Fallback, balancing reasoning accuracy and token cost under constrained budgets. Compared with AGoT, RouteGoT improves accuracy by 8.1% while reducing token cost by 79.1%.</li>
-    </ol>
-  </div>
-
-  <div class="pub-desc lang-zh block">
-    <ol class="pub-points">
-      <li>提出 RouteGoT 节点级自适应路由框架，设计类 PRM 的成功率预测器与序数级预算评估器，在 GoT 推理图内部按节点动态分配模型与推理策略，实现 Test-time 动态算力路由。</li>
-      <li>设计预算感知全局调度器，结合深度/宽度控制与 Plan-guided Fallback 回退策略，在预算受限条件下平衡准确率与 Token 成本；对比 AGoT，准确率提升 8.1%，Token 开销降低 79.1%。</li>
-    </ol>
-  </div>
+  <ol class="pub-points">
+    <li>We propose <strong>RouteGoT</strong>, a node-adaptive routing framework with a PRM-like success predictor and an ordinal-level budget estimator. It dynamically assigns models and reasoning strategies to different nodes within the GoT reasoning graph, enabling test-time dynamic compute routing and strong/weak model collaboration.</li>
+    <li>We design a global budget-aware scheduler that combines depth/width control with a Plan-guided Fallback strategy, balancing reasoning accuracy and token cost under constrained budgets. Compared with AGoT, RouteGoT improves accuracy by 8.1% while reducing token cost by 79.1%.</li>
+  </ol>
 </div>
+
+<div class="pub-desc lang-zh block">
+  <ol class="pub-points">
+    <li>提出 <strong>RouteGoT</strong> 节点级自适应路由框架，设计类 PRM 的成功率预测器与序数级预算评估器，在 GoT 推理图内部按节点动态分配模型与推理策略，实现 Test-time 动态算力路由和强弱模型协同。</li>
+    <li>设计全局预算感知调度器，结合深度/宽度控制与 Plan-guided Fallback 回退策略，在预算受限条件下平衡准确率与 Token 成本。对比 AGoT，准确率提升 8.1%，Token 开销降低 79.1%。</li>
+  </ol>
+</div>
+
 
 
 
@@ -243,7 +247,9 @@ Besides research, I have also excelled in programming and academic competitions,
 
 <div class="pub-info">
   <p class="pub-title">
+    <a href="https://arxiv.org/abs/2510.19384" target="_blank">
     Learning Noise-Resilient and Transferable Graph-Text Alignment via Dynamic Quality Assessment
+    </a>
   </p>
   <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
   <p class="pub-venue"><strong>SIGIR 2026</strong> · Second Student Author</p>
