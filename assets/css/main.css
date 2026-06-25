@@ -167,3 +167,67 @@ hr { border: 0; border-top: 1px solid var(--border); margin: 28px 0; }
   .page-wrapper { display: block; padding: 0; }
   .main-content { max-width: none; }
 }
+.pub-item.pub-item-wide {
+display: block !important;
+}
+
+.pub-item-wide .pub-main {
+display: flex;
+align-items: flex-start;
+gap: 28px;
+width: 100%;
+}
+
+.pub-item-wide .pub-thumb {
+flex: 0 0 300px;
+width: 300px;
+max-width: 300px;
+height: auto;
+object-fit: contain;
+}
+
+.pub-item-wide .pub-info {
+flex: 1;
+}
+
+.pub-item-wide .pub-desc {
+display: block;
+width: 100%;
+margin-top: 14px;
+margin-bottom: 8px;
+line-height: 1.65;
+color: #555;
+font-size: 0.95em;
+}
+
+.pub-points {
+margin: 8px 0 10px 20px;
+padding-left: 0;
+line-height: 1.65;
+}
+
+.pub-points li {
+margin-bottom: 5px;
+}
+
+.pub-title a {
+color: inherit;
+text-decoration: none;
+}
+
+.pub-title a:hover {
+text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+.pub-item-wide .pub-main {
+display: block;
+}
+
+.pub-item-wide .pub-thumb {
+width: 100%;
+max-width: 100%;
+margin-bottom: 12px;
+}
+}
+
