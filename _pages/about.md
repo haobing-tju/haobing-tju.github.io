@@ -58,18 +58,16 @@ Besides research, I have also excelled in programming and academic competitions,
     <strong>Graph Data Mining</strong>
     <ul class="interest-sublist">
       <li><b>Dynamic graph reasoning:</b> temporal motifs, reachability, connected components, community detection, and spatio-temporal decoupling.</li>
-      <li><b>Adaptive graph optimization:</b> reinforcement learning-based graph partitioning and structure-aware routing.</li>
-      <li><b>Scalable graph intelligence:</b> efficient reasoning on large-scale and real-world graphs.</li>
+      <li><b>Scalable graph optimization:</b> RL-based graph partitioning and efficient reasoning on real-world graph data.</li>
     </ul>
   </div>
 
   <div class="interest-card">
     <strong>Large Language Models</strong>
     <ul class="interest-sublist">
-      <li><b>Structured reasoning:</b> Graph-of-Thought, node-adaptive routing, and accuracy-cost trade-off.</li>
-      <li><b>Latent reasoning:</b> CoT compression, interpretable latent tokens, and hybrid explicit-implicit reasoning.</li>
+      <li><b>Structured and latent reasoning:</b> Graph-of-Thought, node-adaptive routing, CoT compression, and interpretable latent tokens.</li>
       <li><b>Post-training:</b> SFT/RFT, RLHF, GRPO, DPO, and reinforcement learning.</li>
-      <li><b>Multimodal intelligence:</b> graph-text alignment, multimodal representation learning, and cross-modal reasoning.</li>
+      <li><b>Multimodal intelligence:</b> graph-text alignment and cross-modal reasoning.</li>
     </ul>
   </div>
 
@@ -77,7 +75,7 @@ Besides research, I have also excelled in programming and academic competitions,
     <strong>Agent Systems</strong>
     <ul class="interest-sublist">
       <li><b>Tool-augmented agents:</b> tool calling, verifier feedback, memory mechanisms, and agent workflows.</li>
-      <li><b>Multi-agent systems:</b> collaborative reasoning, task decomposition, and global scheduling.</li>
+      <li><b>Multi-agent collaboration:</b> collaborative reasoning, task decomposition, and global scheduling.</li>
       <li><b>Agent engineering:</b> LangChain, LangGraph, and LLM-based autonomous systems.</li>
     </ul>
   </div>
@@ -85,8 +83,8 @@ Besides research, I have also excelled in programming and academic competitions,
   <div class="interest-card">
     <strong>Emerging AI Technologies</strong>
     <ul class="interest-sublist">
-      <li><b>Reasoning models:</b> test-time scaling and efficient inference.</li>
-      <li><b>Multimodal & embodied AI:</b> multimodal understanding, generation, interaction, and embodied intelligence.</li>
+      <li><b>Reasoning models:</b> test-time scaling, dynamic inference budget allocation, and efficient reasoning.</li>
+      <li><b>Multimodal AI and embodied intelligence:</b> multimodal understanding, generation, interaction, and embodied intelligence.</li>
       <li><b>AI for Science:</b> intelligent systems for scientific and engineering problems.</li>
     </ul>
   </div>
@@ -99,18 +97,16 @@ Besides research, I have also excelled in programming and academic competitions,
     <strong>图数据挖掘</strong>
     <ul class="interest-sublist">
       <li><b>动态图推理：</b>时序模体、可达性、连通分量、社区检测与时空解耦。</li>
-      <li><b>自适应图优化：</b>基于强化学习的图划分与结构感知路由。</li>
-      <li><b>大规模图智能：</b>面向大规模与真实世界图数据的高效推理。</li>
+      <li><b>大规模图优化：</b>基于强化学习的图划分与真实世界图数据高效推理。</li>
     </ul>
   </div>
 
   <div class="interest-card">
     <strong>大语言模型</strong>
     <ul class="interest-sublist">
-      <li><b>结构化推理：</b>Graph-of-Thought、节点级自适应路由与性能—开销平衡。</li>
-      <li><b>隐式推理：</b>CoT 压缩、可解释隐式 Token 与显隐式混合推理。</li>
+      <li><b>结构化与隐式推理：</b>Graph-of-Thought、节点级自适应路由、CoT 压缩与可解释隐式 Token。</li>
       <li><b>后训练：</b>SFT/RFT、RLHF、GRPO、DPO 与强化学习。</li>
-      <li><b>多模态智能：</b>图文对齐、多模态表征学习与跨模态推理。</li>
+      <li><b>多模态智能：</b>图文对齐与跨模态推理。</li>
     </ul>
   </div>
 
@@ -118,7 +114,7 @@ Besides research, I have also excelled in programming and academic competitions,
     <strong>智能体系统</strong>
     <ul class="interest-sublist">
       <li><b>工具增强型智能体：</b>工具调用、验证反馈、记忆机制与 Agent 工作流。</li>
-      <li><b>多智能体系统：</b>协作式推理、任务分解与全局调度。</li>
+      <li><b>多智能体协作：</b>协作式推理、任务分解与全局调度。</li>
       <li><b>智能体工程：</b>LangChain、LangGraph 与大模型自主智能系统。</li>
     </ul>
   </div>
@@ -126,7 +122,7 @@ Besides research, I have also excelled in programming and academic competitions,
   <div class="interest-card">
     <strong>前沿人工智能技术</strong>
     <ul class="interest-sublist">
-      <li><b>推理模型：</b>Test-time Scaling 与高效推理。</li>
+      <li><b>推理模型：</b>Test-time Scaling、动态推理预算分配与高效推理。</li>
       <li><b>多模态 AI 与具身智能：</b>多模态理解、生成、交互与具身智能。</li>
       <li><b>AI for Science：</b>面向科研与工程问题的智能系统。</li>
     </ul>
