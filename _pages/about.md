@@ -32,7 +32,7 @@ Besides research, I have also excelled in programming and academic competitions,
   <li><em>2026.05</em>: 🎉 Our work <a href="https://arxiv.org/abs/2603.05818" target="_blank"><strong>RouteGoT</strong></a> has been accepted to <strong>KDD 2026</strong> as an <strong>Oral presentation</strong>! 🎉</li>
   <li><em>2026.05</em>: 🎉 Our work <a href="https://arxiv.org/abs/2603.06222" target="_blank"><strong>SPOT</strong></a> has been accepted to <strong>KDD 2026</strong>! 🎉</li>
   <li><em>2026.04</em>: 🎉 Our work <a href="https://arxiv.org/abs/2510.19384" target="_blank"><strong>ADAligner</strong></a> has been accepted to <strong>SIGIR 2026</strong>! 🎉</li>
-  <li><em>2025.11</em>: 🎉 Our work <a href="https://arxiv.org/abs/2512.22266" target="_blank"><strong>LLMTM</strong></a> has been accepted as an <strong>AAAI 2026 Oral</strong>! 🎉</li>
+  <li><em>2025.11</em>: 🎉 Our work <a href="https://arxiv.org/abs/2512.22266" target="_blank"><strong>LLMTM</strong></a> has been accepted to <strong>AAAI 2026</strong> as an <strong>Oral presentation</strong>! 🎉</li>
   <li><em>2025.09</em>: 🎉 Won the <strong>Best Team Award</strong> in an <strong>IJCAI 2025 international competition</strong>! 🎉</li>
   <li><em>2024.11</em>: 🎉 Won the <strong>Gold Medal</strong> in an <strong>IEEE BigData 2024 international competition</strong>! 🎉</li>
 </ul>
@@ -56,22 +56,39 @@ Besides research, I have also excelled in programming and academic competitions,
 
   <div class="interest-card">
     <strong>Graph Data Mining</strong>
-    Dynamic graph reasoning, temporal motif analysis, reachability, connected components, community detection, reinforcement learning based adaptive graph partitioning, spatio-temporal decoupling, and structure-aware routing.
+    <ul class="interest-sublist">
+      <li><b>Dynamic graph reasoning:</b> temporal motifs, reachability, connected components, community detection, and spatio-temporal decoupling.</li>
+      <li><b>Adaptive graph optimization:</b> reinforcement learning-based graph partitioning and structure-aware routing.</li>
+      <li><b>Scalable graph intelligence:</b> efficient reasoning on large-scale and real-world graphs.</li>
+    </ul>
   </div>
 
   <div class="interest-card">
     <strong>Large Language Models</strong>
-    Graph-of-Thought structured reasoning, node-adaptive routing, accuracy-cost trade-off, latent reasoning, CoT compression, SFT/RFT, GRPO, and reinforcement learning for LLM reasoning.
+    <ul class="interest-sublist">
+      <li><b>Structured reasoning:</b> Graph-of-Thought, node-adaptive routing, and accuracy-cost trade-off.</li>
+      <li><b>Latent reasoning:</b> CoT compression, interpretable latent tokens, and hybrid explicit-implicit reasoning.</li>
+      <li><b>Post-training:</b> SFT/RFT, RLHF, GRPO, DPO, and reinforcement learning.</li>
+      <li><b>Multimodal intelligence:</b> graph-text alignment, multimodal representation learning, and cross-modal reasoning.</li>
+    </ul>
   </div>
 
   <div class="interest-card">
     <strong>Agent Systems</strong>
-    Tool-augmented agents, multi-agent systems, collaborative reasoning, agentic workflows, LangChain, LangGraph, and LLM-based autonomous systems.
+    <ul class="interest-sublist">
+      <li><b>Tool-augmented agents:</b> tool calling, verifier feedback, memory mechanisms, and agent workflows.</li>
+      <li><b>Multi-agent systems:</b> collaborative reasoning, task decomposition, and global scheduling.</li>
+      <li><b>Agent engineering:</b> LangChain, LangGraph, and LLM-based autonomous systems.</li>
+    </ul>
   </div>
 
   <div class="interest-card">
     <strong>Emerging AI Technologies</strong>
-    I am broadly interested in new and exciting AI technologies, including multimodal intelligence, AI agents, reasoning models, post-training methods, and AI systems that can solve real-world scientific and engineering problems.
+    <ul class="interest-sublist">
+      <li><b>Reasoning models:</b> test-time scaling and efficient inference.</li>
+      <li><b>Multimodal & embodied AI:</b> multimodal understanding, generation, interaction, and embodied intelligence.</li>
+      <li><b>AI for Science:</b> intelligent systems for scientific and engineering problems.</li>
+    </ul>
   </div>
 
 </div>
@@ -80,22 +97,39 @@ Besides research, I have also excelled in programming and academic competitions,
 
   <div class="interest-card">
     <strong>图数据挖掘</strong>
-    动态图推理、时序模体分析、可达性、连通分量、社区检测、基于强化学习的自适应图划分、时空解耦与结构感知路由。
+    <ul class="interest-sublist">
+      <li><b>动态图推理：</b>时序模体、可达性、连通分量、社区检测与时空解耦。</li>
+      <li><b>自适应图优化：</b>基于强化学习的图划分与结构感知路由。</li>
+      <li><b>大规模图智能：</b>面向大规模与真实世界图数据的高效推理。</li>
+    </ul>
   </div>
 
   <div class="interest-card">
     <strong>大语言模型</strong>
-    Graph-of-Thought 结构化推理、节点级自适应路由、性能—开销平衡、隐式推理、CoT 压缩、SFT/RFT、GRPO 与面向大模型推理的强化学习。
+    <ul class="interest-sublist">
+      <li><b>结构化推理：</b>Graph-of-Thought、节点级自适应路由与性能—开销平衡。</li>
+      <li><b>隐式推理：</b>CoT 压缩、可解释隐式 Token 与显隐式混合推理。</li>
+      <li><b>后训练：</b>SFT/RFT、RLHF、GRPO、DPO 与强化学习。</li>
+      <li><b>多模态智能：</b>图文对齐、多模态表征学习与跨模态推理。</li>
+    </ul>
   </div>
 
   <div class="interest-card">
     <strong>智能体系统</strong>
-    工具增强型智能体、多智能体系统、协作式推理、Agent 工作流、LangChain、LangGraph 与基于大语言模型的自主智能系统。
+    <ul class="interest-sublist">
+      <li><b>工具增强型智能体：</b>工具调用、验证反馈、记忆机制与 Agent 工作流。</li>
+      <li><b>多智能体系统：</b>协作式推理、任务分解与全局调度。</li>
+      <li><b>智能体工程：</b>LangChain、LangGraph 与大模型自主智能系统。</li>
+    </ul>
   </div>
 
   <div class="interest-card">
     <strong>前沿人工智能技术</strong>
-    我也持续关注各类新兴 AI 技术，包括多模态智能、AI Agent、推理模型、后训练方法，以及能够解决真实科研与工程问题的智能系统。
+    <ul class="interest-sublist">
+      <li><b>推理模型：</b>Test-time Scaling 与高效推理。</li>
+      <li><b>多模态 AI 与具身智能：</b>多模态理解、生成、交互与具身智能。</li>
+      <li><b>AI for Science：</b>面向科研与工程问题的智能系统。</li>
+    </ul>
   </div>
 
 </div>
