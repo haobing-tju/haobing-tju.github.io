@@ -285,7 +285,7 @@ Besides research, I have also excelled in programming and academic competitions,
     </a>
   </p>
   <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
-  <p class="pub-venue"><strong>SIGIR 2026</strong> · Second Student Author</p>
+  <p class="pub-venue"><strong>SIGIR 2026</strong> · Third Student Author</p>
 </div>
 
 
