@@ -191,7 +191,7 @@ Besides research, I have also excelled in programming and academic competitions,
 
   <div class="pub-desc lang-en block">
     <ol class="pub-points">
-      <li>We leverage the partitionability and spatio-temporal decomposability of dynamic graphs to propose the first <strong>Multi-Agent</strong> reasoning framework for dynamic graphs, enabling regional parallelism as well as cross-temporal and cross-region collaboration, thereby breaking the scaling bottleneck of Single-Agent reasoning from tens of nodes to thousands of nodes.</li>
+      <li>We leverage the spatio-temporal decomposability and partitionability of dynamic graphs to propose the first <strong>Multi-Agent</strong> reasoning framework for dynamic graphs, enabling regional parallelism as well as cross-temporal and cross-region collaboration, thereby breaking the scaling bottleneck of Single-Agent reasoning from tens of nodes to thousands of nodes.</li>
       <li>We design a <strong>reinforcement learning based adaptive partitioner</strong> that dynamically performs region partitioning and node migration, allowing each subgraph region to match the model's reasoning capacity while minimizing the global inference cost.</li>
       <li>Compared with seven types of baselines, AdaSTORM maintains over <strong>90%</strong> accuracy across multiple tasks and achieves 100% accuracy on temporal motif counting with N=500. It reaches <strong>SOTA</strong> performance on existing graph reasoning benchmarks and successfully <strong>generalizes to real-world datasets</strong>.</li>
     </ol>
@@ -199,7 +199,7 @@ Besides research, I have also excelled in programming and academic competitions,
 
   <div class="pub-desc lang-zh block">
     <ol class="pub-points">
-      <li>利用动态图的可划分性和时空解耦性，提出首个动态图 <strong>Multi-Agent</strong> 推理框架，通过区域并行与跨时空、跨区域协同，突破 Single-Agent 推理的规模瓶颈（十级 → 千级）。</li>
+      <li>利用动态图的时空解耦性和可划分性，提出首个动态图 <strong>Multi-Agent</strong> 推理框架，通过区域并行与跨时空、跨区域协同，突破 Single-Agent 推理的规模瓶颈（十级 → 千级）。</li>
       <li>设计<strong>基于强化学习的自适应划分器</strong>，动态执行区域划分和节点迁移策略，使各子图区域匹配模型推理能力，并最小化全局推理成本。</li>
       <li>相比七类基线，AdaSTORM 在多项任务中保持 <strong>90%+</strong> 准确率，并在 N=500 的时序模体计数任务上达到 100%，在现有图推理 Benchmark 上达到 <strong>SOTA</strong>，并成功<strong>泛化至真实世界数据集</strong>。</li>
     </ol>
