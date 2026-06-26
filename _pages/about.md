@@ -157,7 +157,7 @@ Besides research, I have also excelled in programming and academic competitions,
   <div class="pub-desc lang-en block">
     <ol class="pub-points">
       <li>We construct the first <strong>benchmark</strong> for temporal motif reasoning in dynamic graphs, systematically evaluating 9 LLMs across 9 classical temporal motifs and 6 tasks on spatio-temporal graph reasoning.</li>
-      <li>We propose a tool-augmented Agent framework that integrates <strong>Motif Memory</strong>, <strong>Verifier Trace</strong>, and <strong>Reflexion</strong>, achieving nearly 100% accuracy on complex motif analysis.</li>
+      <li>We propose a <strong>tool-augmented Agent</strong> framework that integrates Motif Memory, Verifier Trace, and Reflexion, achieving nearly 100% accuracy on complex motif analysis.</li>
       <li>We design a <strong>structure-aware dispatcher</strong> and construct SFT data for optimization, adaptively routing standard LLMs and tool-augmented Agents to maintain over <strong>90%</strong> accuracy while reducing inference cost by approximately <strong>40%</strong>.</li>
     </ol>
   </div>
@@ -165,7 +165,7 @@ Besides research, I have also excelled in programming and academic competitions,
   <div class="pub-desc lang-zh block">
     <ol class="pub-points">
       <li>构建首个动态图时序模体推理 <strong>Benchmark</strong>，系统评估 9 种 LLM 在 9 类经典时序模体、6 项任务上的时空图推理能力。</li>
-      <li>提出融合 <strong>Motif Memory</strong>、<strong>Verifier Trace</strong> 与 <strong>Reflexion</strong> 的工具增强型 Agent，实现复杂模体分析近 100% 的准确率。</li>
+      <li>提出融合 Motif Memory、Verifier Trace 与 Reflexion 的<strong>工具增强型 Agent</strong>，实现复杂模体分析近 100% 的准确率。</li>
       <li>设计<strong>结构感知分配器</strong>，构造 SFT 数据进行优化，自适应路由标准 LLM 与工具增强型Agent，在保持 <strong>90%+</strong> 准确率的同时降低约 <strong>40%</strong> 的推理成本。</li>
     </ol>
   </div>
