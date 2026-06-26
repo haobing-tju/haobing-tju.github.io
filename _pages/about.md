@@ -83,7 +83,6 @@ Besides research, I have also excelled in programming and academic competitions,
   <div class="interest-card">
     <strong>Emerging AI Technologies</strong>
     <ul class="interest-sublist">
-      <li><b>Reasoning models:</b> test-time scaling, dynamic inference budget allocation, and efficient reasoning.</li>
       <li><b>Multimodal AI and embodied intelligence:</b> multimodal understanding, generation, interaction, and embodied intelligence.</li>
       <li><b>AI for Science:</b> intelligent systems for scientific and engineering problems.</li>
     </ul>
@@ -122,7 +121,6 @@ Besides research, I have also excelled in programming and academic competitions,
   <div class="interest-card">
     <strong>前沿人工智能技术</strong>
     <ul class="interest-sublist">
-      <li><b>推理模型：</b>Test-time Scaling、动态推理预算分配与高效推理。</li>
       <li><b>多模态 AI 与具身智能：</b>多模态理解、生成、交互与具身智能。</li>
       <li><b>AI for Science：</b>面向科研与工程问题的智能系统。</li>
     </ul>
