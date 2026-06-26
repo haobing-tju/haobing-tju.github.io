@@ -225,7 +225,7 @@ Besides research, I have also excelled in programming and academic competitions,
 
   <div class="pub-desc lang-en block">
     <ol class="pub-points">
-      <li>We propose <strong>SPOT</strong>, a hybrid explicit-implicit reasoning paradigm that compresses span-level explicit CoT into a single latent token based on Sinkhorn optimal transport and frozen LLM Head decoding constraints. Compared with CoT, SPOT improves accuracy by <strong>3.6%</strong> and reduces token cost by <strong>37%</strong>, while enabling interpretable latent reasoning.</li>
+      <li>We propose <strong>SPOT</strong>, a hybrid explicit-implicit reasoning paradigm that compresses span-level explicit CoT into a single latent token based on Sinkhorn optimal transport and frozen LM Head decoding constraints. Compared with CoT, SPOT improves accuracy by <strong>3.6%</strong> and reduces token cost by <strong>37%</strong>, while enabling interpretable latent reasoning.</li>
       <li>We build a two-stage <strong>SFT+RFT</strong> training framework, introducing posterior multi-density perturbation sampling and a dynamic self-distillation data flywheel to improve the robustness of hybrid reasoning.</li>
       <li>We introduce <strong>GRPO</strong> and design a multi-dimensional reward covering accuracy, CoT compression ratio, and latent-thinking frequency, guiding LLMs to autonomously perform hybrid explicit-implicit reasoning.</li>
     </ol>
@@ -233,9 +233,9 @@ Besides research, I have also excelled in programming and academic competitions,
 
   <div class="pub-desc lang-zh block">
     <ol class="pub-points">
-      <li>提出 <strong>SPOT</strong> 显隐式混合推理范式，基于 Sinkhorn 最优传输与冻结 LLM Head 解码约束，将 Span 级显式 CoT 压缩为单个隐式 Token。对比 CoT，准确率提升 <strong>3.6%</strong>、Token 开销下降 <strong>37%</strong>，并实现隐式推理的可解释性。</li>
+      <li>提出 <strong>SPOT</strong> 显隐式混合推理范式，基于 Sinkhorn 最优传输与冻结 LM Head 解码约束，将 Span 级显式 CoT 压缩为单个隐式 Token。对比 CoT，准确率提升 <strong>3.6%</strong>、Token 开销下降 <strong>37%</strong>，并实现隐式推理的可解释性。</li>
       <li>构建 <strong>SFT+RFT</strong> 两阶段训练框架，创新设计后验多密度扰动采样与动态自蒸馏数据飞轮，提升混合推理鲁棒性。</li>
-      <li>引入 <strong>GRPO</strong>，构建准确率、CoT 压缩率与隐式思考频率的多维 Reward，引导大模型自主进行显隐式思考。</li>
+      <li>引入 <strong>GRPO</strong>，构建准确率、CoT 压缩率与隐式思考频率的多维奖励函数，引导大模型自主进行显隐式思考。</li>
     </ol>
   </div>
 </div>
@@ -344,7 +344,7 @@ Besides research, I have also excelled in programming and academic competitions,
   <ul>
     <li><strong>学术报告：</strong>在 The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) 完成 LLMTM 论文口头报告。</li>
     <li><strong>科研项目：</strong>参与面向大规模复杂网络的大语言模型高效推理、社交媒体影响力塑造中的自主成长智能体与协同博弈等国家自然科学基金项目。</li>
-    <li><strong>学术协作：</strong>具备国际竞赛协作，以及图数据挖掘、大语言模型推理与 Agent 系统方向的科研工程经验。</li>
+    <li><strong>学术协作：</strong>具备国际竞赛协作，以及图数据挖掘、大语言模型推理与 智能体系统方向的科研工程经验。</li>
   </ul>
 </div>
 
