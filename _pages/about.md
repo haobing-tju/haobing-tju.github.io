@@ -261,14 +261,14 @@ Besides research, I have also excelled in programming and academic competitions,
   <div class="pub-desc lang-en block">
   <ol class="pub-points">
     <li>We propose <strong>RouteGoT</strong>, a node-adaptive routing framework with a PRM-like success predictor and an ordinal-level budget estimator. It dynamically assigns models and reasoning strategies to different nodes within the GoT reasoning graph, enabling test-time dynamic compute routing and strong/weak model collaboration.</li>
-    <li>We design a <strong>global budget-aware scheduler</strong> that combines depth/width control with a Plan-guided Fallback strategy, balancing reasoning accuracy and token cost under constrained budgets. Compared with AGoT, RouteGoT improves accuracy by <strong>8.1%</strong> while reducing token cost by <strong>79.1%</strong>.</li>
+    <li>We design a <strong>global budget-aware scheduler</strong> with depth/width control and a Plan-guided Fallback strategy to balance reasoning accuracy and token cost under constrained budgets. Compared with AGoT, RouteGoT improves accuracy by <strong>8.1%</strong> and reduces token cost by <strong>79.1%</strong>.</li>
   </ol>
 </div>
 
 <div class="pub-desc lang-zh block">
   <ol class="pub-points">
     <li>提出 <strong>RouteGoT</strong> 节点级自适应路由框架，设计类 PRM 的成功率预测器与序数级预算评估器，在 GoT 推理图内部按节点动态分配模型与推理策略，实现 Test-time 动态算力路由和强弱模型协同。</li>
-    <li>设计<strong>全局预算感知调度器</strong>，结合深度/宽度控制与 Plan-guided Fallback 回退策略，在预算受限条件下平衡准确率与 Token 成本。对比 AGoT，准确率提升 <strong>8.1%</strong>，Token 开销降低 <strong>79.1%</strong>。</li>
+    <li>设计<strong>全局预算感知调度器</strong>，通过深度/宽度控制与 Plan-guided Fallback 回退策略，实现预算受限条件下的准确率与 Token 成本平衡。对比 AGoT，准确率提升 <strong>8.1%</strong>，Token 开销降低 <strong>79.1%</strong>。</li>
   </ol>
 </div>
 </div>
