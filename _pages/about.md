@@ -252,14 +252,14 @@ Besides research, I have also excelled in programming and academic competitions,
   <div class="pub-desc lang-en block">
     <ol class="pub-points">
       <li>We propose <strong>DiffTopo</strong>, a constraint-aware topology generation framework for LLM-based multi-agent systems, which generates executable communication structures conditioned on task semantics and environmental constraints such as node failure, message corruption, and token budget reduction.</li>
-      <li>We design a task-constraint <strong>Latent Diffusion</strong> model that uses high-quality communication topologies selected by real execution as anchors, and combines neighboring-constraint interpolation with contrastive calibration to improve generation reliability. Experiments on GSM8K, MATH, HumanEval, MMLU, and SVAMP show that DiffTopo <strong>consistently outperforms</strong> fixed, optimization-based, and generative topology baselines under both constrained and unseen mixed environments.</li>
+      <li>We design a task-constraint conditioned <strong>Latent Diffusion</strong> model that uses high-quality communication topologies selected by real execution as anchors, and combines neighboring-constraint interpolation with contrastive calibration to improve generation reliability. Experiments on GSM8K, MATH, HumanEval, MMLU, and SVAMP show that DiffTopo <strong>consistently outperforms</strong> fixed, optimization-based, and generative topology baselines under both constrained and unseen mixed environments.</li>
     </ol>
   </div>
 
   <div class="pub-desc lang-zh block">
     <ol class="pub-points">
       <li>提出 <strong>DiffTopo</strong> 约束感知通信拓扑生成框架，面向 LLM 多智能体系统，根据任务语义与节点失效、消息污染、Token 预算受限等环境约束生成可执行通信结构。</li>
-      <li>设计任务-约束 <strong>Latent Diffusion</strong> 模型，利用真实执行筛选出的高质量通信拓扑作为锚点，结合邻近约束插值与对比学习校准提升生成可靠性。实验在 GSM8K、MATH、HumanEval、MMLU 和 SVAMP 上表明，DiffTopo 在受限环境与未见混合约束下均<strong>稳定优于</strong>固定式、优化式和生成式拓扑基线。</li>
+      <li>设计任务-约束条件化的 <strong>Latent Diffusion</strong> 模型，利用真实执行筛选出的高质量通信拓扑作为锚点，结合邻近约束插值与对比学习校准提升生成可靠性。实验在 GSM8K、MATH、HumanEval、MMLU 和 SVAMP 上表明，DiffTopo 在受限环境与未见混合约束下均<strong>稳定优于</strong>固定式、优化式和生成式拓扑基线。</li>
     </ol>
   </div>
 </div>
