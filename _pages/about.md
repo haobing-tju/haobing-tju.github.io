@@ -235,6 +235,38 @@ Besides research, I have also excelled in programming and academic competitions,
 </div>
 </div>
 
+<div class="pub-item pub-item-wide">
+  <div class="pub-main">
+    <img class="pub-thumb" src="/images/pub_difftopo.png" alt="DiffTopo thumbnail">
+
+<div class="pub-info">
+  <p class="pub-title">
+    DiffTopo: Constraint-Aware Topology Generation for LLM Multi-Agent Systems via Latent Diffusion
+  </p>
+  <p class="pub-authors"><strong>Bing Hao</strong>, et al.</p>
+  <p class="pub-venue"><strong>NeurIPS 2026</strong> Under Review · First Author</p>
+</div>
+
+  </div>
+
+  <div class="pub-desc lang-en block">
+    <ol class="pub-points">
+      <li>We propose <strong>DiffTopo</strong>, a constraint-aware topology generation framework for LLM-based multi-agent systems, which generates executable communication structures conditioned on task semantics and environmental constraints such as node failure, message corruption, and token budget reduction.</li>
+      <li>We design a task-constraint <strong>Latent Diffusion</strong> model with execution-evaluated topology anchors, weak local interpolation, and anchor-based latent regularization. Experiments on GSM8K, MATH, HumanEval, MMLU, and SVAMP show that DiffTopo <strong>consistently outperforms</strong> fixed, optimized, and generative topology baselines under both constrained and unseen mixed environments.</li>
+    </ol>
+  </div>
+
+  <div class="pub-desc lang-zh block">
+    <ol class="pub-points">
+      <li>提出 <strong>DiffTopo</strong> 约束感知通信拓扑生成框架，面向 LLM 多智能体系统，根据任务语义与节点失效、消息污染、Token 预算受限等环境约束生成可执行通信结构。</li>
+      <li>设计任务-约束 <strong>Latent Diffusion</strong> 模型，结合执行评估拓扑 Anchor、弱局部插值与 anchor-based latent regularization。实验在 GSM8K、MATH、HumanEval、MMLU 和 SVAMP 上表明，DiffTopo 在受限环境与未见混合约束下均<strong>稳定优于</strong>固定式、优化式和生成式拓扑基线。</li>
+    </ol>
+  </div>
+</div>
+
+
+
+
 <h3 class="pub-subtopic lang-en block">Theme 3: Graph-Text Alignment and Efficient Reasoning</h3> <h3 class="pub-subtopic lang-zh block">方向三：图文对齐与高效推理</h3>
 
 <div class="pub-item pub-item-wide">
