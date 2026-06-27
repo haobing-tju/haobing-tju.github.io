@@ -132,6 +132,8 @@ Besides research, I have also excelled in programming and academic competitions,
 
 ## <span class="emoji">📝</span>Publications
 
+<h3 class="pub-subtopic lang-en block">Theme 1: Dynamic Graph Reasoning and Scaling</h3> <h3 class="pub-subtopic lang-zh block">方向一：动态图推理与规模扩展</h3>
+
 <div class="pub-item pub-item-wide">
   <div class="pub-main">
     <img class="pub-thumb" src="/images/pub_llmtm.png" alt="LLMTM thumbnail">
@@ -200,6 +202,40 @@ Besides research, I have also excelled in programming and academic competitions,
   </div>
 </div>
 
+<h3 class="pub-subtopic lang-en block">Theme 2: Graph-of-Thought Reasoning and Agent Collaboration</h3> <h3 class="pub-subtopic lang-zh block">方向二：GoT 推理与智能体协作</h3>
+
+<div class="pub-item pub-item-wide">
+  <div class="pub-main">
+    <img class="pub-thumb" src="/images/pub_routegot.png" alt="RouteGoT thumbnail">
+
+<div class="pub-info">
+  <p class="pub-title">
+    <a href="https://arxiv.org/abs/2603.05818" target="_blank">
+    RouteGoT: Node-Adaptive Routing for Cost-Efficient Graph of Thoughts Reasoning
+    </a>
+  </p>
+  <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
+  <p class="pub-venue"><strong>KDD 2026 Oral</strong> · Second Author</p>
+</div>
+
+  </div>
+
+  <div class="pub-desc lang-en block">
+  <ol class="pub-points">
+    <li>We propose <strong>RouteGoT</strong>, a node-adaptive routing framework with a PRM-like success predictor and an ordinal-level budget estimator. It dynamically assigns models and reasoning strategies to different nodes within the GoT reasoning graph, enabling test-time dynamic compute routing and strong/weak model collaboration.</li>
+    <li>We design a <strong>global budget-aware scheduler</strong> with depth/width control and a Plan-guided Fallback strategy to balance reasoning accuracy and token cost under constrained budgets. Compared with AGoT, RouteGoT improves accuracy by <strong>8.1%</strong> and reduces token cost by <strong>79.1%</strong>.</li>
+  </ol>
+</div>
+
+<div class="pub-desc lang-zh block">
+  <ol class="pub-points">
+    <li>提出 <strong>RouteGoT</strong> 节点级自适应路由框架，设计类 PRM 的成功率预测器与序数级预算评估器，在 GoT 推理图内部按节点动态分配模型与推理策略，实现 Test-time 动态算力路由和强弱模型协同。</li>
+    <li>设计<strong>全局预算感知调度器</strong>，通过深度/宽度控制与 Plan-guided Fallback 回退策略，实现预算受限条件下的准确率与 Token 成本平衡。对比 AGoT，准确率提升 <strong>8.1%</strong>，Token 开销降低 <strong>79.1%</strong>。</li>
+  </ol>
+</div>
+</div>
+
+<h3 class="pub-subtopic lang-en block">Theme 3: Graph-Text Alignment and Efficient Reasoning</h3> <h3 class="pub-subtopic lang-zh block">方向三：图文对齐与高效推理</h3>
 
 <div class="pub-item pub-item-wide">
   <div class="pub-main">
@@ -235,37 +271,6 @@ Besides research, I have also excelled in programming and academic competitions,
 </div>
 
 
-
-<div class="pub-item pub-item-wide">
-  <div class="pub-main">
-    <img class="pub-thumb" src="/images/pub_routegot.png" alt="RouteGoT thumbnail">
-
-<div class="pub-info">
-  <p class="pub-title">
-    <a href="https://arxiv.org/abs/2603.05818" target="_blank">
-    RouteGoT: Node-Adaptive Routing for Cost-Efficient Graph of Thoughts Reasoning
-    </a>
-  </p>
-  <p class="pub-authors">Co-authored by <strong>Bing Hao</strong>, et al.</p>
-  <p class="pub-venue"><strong>KDD 2026 Oral</strong> · Second Author</p>
-</div>
-
-  </div>
-
-  <div class="pub-desc lang-en block">
-  <ol class="pub-points">
-    <li>We propose <strong>RouteGoT</strong>, a node-adaptive routing framework with a PRM-like success predictor and an ordinal-level budget estimator. It dynamically assigns models and reasoning strategies to different nodes within the GoT reasoning graph, enabling test-time dynamic compute routing and strong/weak model collaboration.</li>
-    <li>We design a <strong>global budget-aware scheduler</strong> with depth/width control and a Plan-guided Fallback strategy to balance reasoning accuracy and token cost under constrained budgets. Compared with AGoT, RouteGoT improves accuracy by <strong>8.1%</strong> and reduces token cost by <strong>79.1%</strong>.</li>
-  </ol>
-</div>
-
-<div class="pub-desc lang-zh block">
-  <ol class="pub-points">
-    <li>提出 <strong>RouteGoT</strong> 节点级自适应路由框架，设计类 PRM 的成功率预测器与序数级预算评估器，在 GoT 推理图内部按节点动态分配模型与推理策略，实现 Test-time 动态算力路由和强弱模型协同。</li>
-    <li>设计<strong>全局预算感知调度器</strong>，通过深度/宽度控制与 Plan-guided Fallback 回退策略，实现预算受限条件下的准确率与 Token 成本平衡。对比 AGoT，准确率提升 <strong>8.1%</strong>，Token 开销降低 <strong>79.1%</strong>。</li>
-  </ol>
-</div>
-</div>
 
 
 <div class="pub-item pub-item-wide">
