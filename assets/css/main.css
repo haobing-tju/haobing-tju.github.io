@@ -275,10 +275,10 @@ display: inline !important;
 .pub-subtopic {
   margin: 28px 0 10px;
   padding-left: 12px;
-  border-left: 4px solid var(--accent);
+  border-left: 4px solid var(--link);
   font-size: 20px;
   font-weight: 700;
-  color: #2f5f8f;
+  color: #3f3f3f;
 }
 
 .pub-subtopic + .pub-item {
