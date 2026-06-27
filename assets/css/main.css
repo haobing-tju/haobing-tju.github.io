@@ -272,3 +272,15 @@ body.zh .lang-zh.inline {
 display: inline !important;
 }
 
+.pub-subtopic {
+  margin: 28px 0 10px;
+  padding-left: 12px;
+  border-left: 4px solid var(--accent);
+  font-size: 20px;
+  font-weight: 700;
+  color: #3f3f3f;
+}
+
+.pub-subtopic + .pub-item {
+  padding-top: 12px;
+}
