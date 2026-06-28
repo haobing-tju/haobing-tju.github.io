@@ -132,7 +132,8 @@ Besides research, I have also excelled in programming and academic competitions,
 
 ## <span class="emoji">📝</span>Publications
 
-<h3 class="pub-subtopic lang-en block">Theme 1: Dynamic Graph Reasoning and Scaling</h3> <h3 class="pub-subtopic lang-zh block">方向一：动态图推理与规模扩展</h3>
+<h3 class="pub-subtopic lang-en block">Theme 1: LLM for Graph — Dynamic Graph Reasoning and Scaling</h3>
+<h3 class="pub-subtopic lang-zh block">方向一：LLM for Graph——动态图推理与规模扩展</h3>
 
 <div class="pub-item pub-item-wide">
   <div class="pub-main">
@@ -202,7 +203,8 @@ Besides research, I have also excelled in programming and academic competitions,
   </div>
 </div>
 
-<h3 class="pub-subtopic lang-en block">Theme 2: Graph-of-Thought Reasoning and Agent Collaboration</h3> <h3 class="pub-subtopic lang-zh block">方向二：GoT 推理与智能体协作</h3>
+<h3 class="pub-subtopic lang-en block">Theme 2: Graph for LLM — Graph-Structured Reasoning and Agent Collaboration</h3>
+<h3 class="pub-subtopic lang-zh block">方向二：Graph for LLM——图结构推理与智能体协作</h3>
 
 <div class="pub-item pub-item-wide">
   <div class="pub-main">
