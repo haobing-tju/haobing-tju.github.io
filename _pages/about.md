@@ -17,7 +17,7 @@ Besides research, I have also excelled in programming and academic competitions,
 </div>
 
 <div class="hero-text block lang-zh">
-你好！我是<strong>郝冰</strong>，现为<strong>天津大学计算机技术专业硕士研究生</strong>，综合排名<strong>专业第一</strong>。硕士期间的研究方向主要集中在<strong>图数据挖掘</strong>、<strong>大语言模型</strong>与<strong>智能体系统</strong>，围绕<strong>大模型图推理与智能体协作</strong>开展研究。目前已录用 4 篇 CCF A 类会议论文，其中 2 篇荣获 Oral。
+你好！我是<strong>郝冰</strong>，现为<strong>天津大学计算机技术专业硕士研究生</strong>，综合排名<strong>专业第一</strong>。硕士期间的研究方向主要集中在<strong>图数据挖掘</strong>、<strong>大语言模型</strong>与<strong>智能体系统</strong>，围绕<strong>大模型图推理与智能体协作</strong>开展研究。目前已有 4 篇论文被 CCF-A 类会议录用，其中 2 篇荣获 Oral。
 <br><br>
 除了科研之外，我也积极参加程序设计与学术竞赛，曾在<strong>蓝桥杯全国总决赛</strong>、<strong>中国大学生程序设计竞赛 CCPC</strong>、<strong>IEEE BigData 2024 国际竞赛</strong>、<strong>IJCAI 2025 国际竞赛</strong>等赛事中获奖。
 </div>
