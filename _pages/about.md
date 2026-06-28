@@ -377,7 +377,7 @@ Besides research, I have also excelled in programming and academic competitions,
   <ul>
     <li><strong>学术报告：</strong>在 The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) 完成 LLMTM 论文口头报告。</li>
     <li><strong>科研项目：</strong>参与面向大规模复杂网络的大语言模型高效推理、社交媒体影响力塑造中的自主成长智能体与协同博弈等国家自然科学基金项目。</li>
-    <li><strong>学术协作：</strong>具备国际竞赛协作，以及图数据挖掘、大语言模型推理与 智能体系统方向的科研工程经验。</li>
+    <li><strong>学术协作：</strong>具备国际竞赛协作，以及图数据挖掘、大语言模型推理与智能体系统方向的科研工程经验。</li>
   </ul>
 </div>
 
