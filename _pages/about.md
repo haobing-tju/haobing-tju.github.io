@@ -11,13 +11,13 @@ redirect_from:
 <span id="about-me"></span>
 
 <div class="hero-text block lang-en">
-Hi! I am <strong>Bing Hao</strong>, a Master's student in <strong>Computer Technology</strong> at <strong>Tianjin University</strong>, ranking <strong>1st in my program</strong>. My research mainly focuses on <strong>graph data mining</strong>, <strong>large language models</strong>, and <strong>agent systems</strong>, centering on <strong>LLM-based graph reasoning and agent collaboration</strong>. So far, I have four CCF-A conference papers accepted, two of which were selected for Oral presentation.
+Hi! I am <strong>Bing Hao</strong>, a Master's student in <strong>Computer Technology</strong> at <strong>Tianjin University</strong>, ranking <strong>1st in my program</strong>. My research mainly focuses on <strong>graph data mining</strong>, <strong>large language models</strong>, and <strong>agent systems</strong>, centering on <strong>LLM-based graph reasoning and agent collaboration</strong>. So far, I have four <strong>CCF-A</strong> conference papers accepted, two of which were selected for Oral presentation.
 <br><br>
 Besides research, I have also excelled in programming and academic competitions, winning awards in the <strong>Lanqiao Cup National Contest</strong>, <strong>CCPC</strong>, <strong>IEEE BigData 2024 International Competition</strong>, <strong>IJCAI 2025 International Competition</strong>, and various other contests.
 </div>
 
 <div class="hero-text block lang-zh">
-你好！我是<strong>郝冰</strong>，现为<strong>天津大学计算机技术专业硕士研究生</strong>，综合排名<strong>专业第一</strong>。硕士期间的研究方向主要集中在<strong>图数据挖掘</strong>、<strong>大语言模型</strong>与<strong>智能体系统</strong>，围绕<strong>大模型图推理与智能体协作</strong>开展研究。目前已有 4 篇论文被 CCF-A 类会议录用，其中 2 篇荣获 Oral。
+你好！我是<strong>郝冰</strong>，现为<strong>天津大学计算机技术专业硕士研究生</strong>，综合排名<strong>专业第一</strong>。硕士期间的研究方向主要集中在<strong>图数据挖掘</strong>、<strong>大语言模型</strong>与<strong>智能体系统</strong>，围绕<strong>大模型图推理与智能体协作</strong>开展研究。目前已有 4 篇论文被 <strong>CCF-A</strong> 类会议录用，其中 2 篇荣获 Oral。
 <br><br>
 除了科研之外，我也积极参加程序设计与学术竞赛，曾在<strong>蓝桥杯全国总决赛</strong>、<strong>中国大学生程序设计竞赛 CCPC</strong>、<strong>IEEE BigData 2024 国际竞赛</strong>、<strong>IJCAI 2025 国际竞赛</strong>等赛事中获奖。
 </div>
