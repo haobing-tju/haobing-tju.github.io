@@ -269,7 +269,7 @@ Besides research, I have also excelled in programming and academic competitions,
 
 
 
-<h3 class="pub-subtopic lang-en block">Theme 3: Graph-Text Alignment and Efficient Reasoning</h3> <h3 class="pub-subtopic lang-zh block">方向三：图文对齐与高效推理</h3>
+<h3 class="pub-subtopic lang-en block">Theme 3: Multimodal Learning and Efficient Reasoning</h3> <h3 class="pub-subtopic lang-zh block">方向三：多模态学习与高效推理</h3>
 
 <div class="pub-item pub-item-wide">
   <div class="pub-main">
